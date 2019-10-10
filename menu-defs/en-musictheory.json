@@ -1,0 +1,11 @@
+{
+  "name": "en-musictheory",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-musictheory",
+  "title": "Music Theory",
+  "logo_url": "en-musictheory.jpg",
+  "description": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-calibreweb",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "books",
+  "title": "Calibre-Web",
+  "logo_url": "calibreweb.png",
+  "description": "Electronic Books for your local community.",
+  "extra_html": "en-calibreweb.html",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

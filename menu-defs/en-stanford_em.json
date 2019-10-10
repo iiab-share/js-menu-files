@@ -1,0 +1,12 @@
+{
+  "name": "en-stanford_em",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-stanford_em",
+  "title": "Stanford Emergency Medicine Videos",
+  "logo_url": "stanford_em2.jpg",
+  "description": "A collection of Emergency Medicine training videos from the Stanford School of Medicine.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

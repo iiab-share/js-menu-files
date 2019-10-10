@@ -1,0 +1,12 @@
+{
+  "name": "en-gutenberg_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_en_all",
+  "title": "Project Gutenberg Library in English",
+  "logo_url": "Project_Gutenberg_logo.png",
+  "description": "The first producer of free ebooks.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ar-hesperian_health",
+  "lang": "ar",
+  "intended_use": "html",
+  "moddir": "ar-hesperian_health",
+  "title": "دليل هسبريان الصحي",
+  "logo_url": "hesperianlogo.png",
+  "description": "دليل هسبريان الصحة هو مصدر غير ربحي للمعلومات الصحية و التثقيف الصحي لدعم الأفراد و المجتمعات في نضالهم لتحقيق الحق في الصحة. نحن نطور مواد سهلة القراءة يتم إنتاجها في العديد من اللغات",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "en-test_zim",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "tes",
+  "title": "Test ZIM File",
+  "logo_url": "KiwixLogoVertical2.svg.png",
+  "description": "Can be used to verify that the Kiwix server is working.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

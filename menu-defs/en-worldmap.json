@@ -1,0 +1,12 @@
+{
+  "name": "en-worldmap",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-worldmap",
+  "start_url": "map.html",
+  "title": "OpenStreetMap: Small Version",
+  "logo_url": "osm.jpg",
+  "description": "Maps of the entire world from Internet-in-a-Box.",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

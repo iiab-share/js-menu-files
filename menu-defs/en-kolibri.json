@@ -1,0 +1,12 @@
+{
+  "name": "en-kolibri",
+  "lang": "en",
+  "intended_use": "kolibri",
+  "start_url": "/",
+  "title": "Kolibri",
+  "logo_url": "kolibri.png",
+  "description": "Kolibri (might replace KA Lite in future!) provides offline access to a wide range of quality, openly licensed educational content.",
+  "extra_html": "en-kolibri.html",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

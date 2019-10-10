@@ -1,0 +1,12 @@
+{
+  "name": "fr-ebooksgratuits",
+  "lang": "fr",
+  "intended_use": "html",
+  "moddir": "fr-ebooksgratuits",
+  "title": "Electronic Library of Quebec",
+  "logo_url": "fr-ebooksgratuits.jpg",
+  "description": "Over 2000 public domain books in French.",
+  "extra_html": "fr-ebooksgratuits.html",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

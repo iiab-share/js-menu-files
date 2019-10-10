@@ -1,0 +1,12 @@
+{
+  "name": "en-wikipedia_chr_all",
+  "lang": "chr",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_chr_all_novid",
+  "title": "Wikipedia in Cherokee",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "Searchable encyclopedia of 825 articles and 2382 illustrations, from August 2017.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

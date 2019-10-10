@@ -1,0 +1,15 @@
+{
+  "name": "es-blockly-games",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-blockly-games",
+  "start_url": "blockly-games/es/index.html",
+  "title": "Blockly Games",
+  "logo_url": "es-blockly_games.png",
+  "description": "Juegos para los programadores del futuro.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamaño: 4.4M, Fecha: agosto 2017",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

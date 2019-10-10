@@ -1,0 +1,14 @@
+{
+  "name": "es-GCF2015",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-GCF2015",
+  "title": "GCF2015",
+  "logo_url": "es-GCF2015.jpg",
+  "description": "GCFAprendeLibre es un espacio virtual creado para ti, para ayudarte a crecer y alcanzar tus sueños.\r\nLa misión de GCFAprendeLibre es crear y proveer educación y oportunidades para enriquecer a quienes desean mejorar su calidad de vida.",
+  "extra_description": "",
+  "extra_html": "es-GCF2015.html",
+  "footnote": "Tamaño: 3.2G, Artículos Ilustrados, Videos: 255, Fecha: abril 2017",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

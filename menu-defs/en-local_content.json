@@ -1,0 +1,12 @@
+{
+  "name": "en-local_content",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "local_content",
+  "title": "Our Materials",
+  "logo_url": "content.jpg",
+  "description": "Materials collected by your teacher and school",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

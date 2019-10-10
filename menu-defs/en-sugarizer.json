@@ -1,0 +1,12 @@
+{
+  "name": "en-sugarizer",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "sugarizer",
+  "title": "Sugarizer",
+  "logo_url": "sugarizer.png",
+  "description": "A taste of Sugar on any device, used every day by children around the world on the One Laptop per Child project.",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

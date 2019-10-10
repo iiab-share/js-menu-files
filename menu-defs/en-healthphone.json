@@ -1,0 +1,12 @@
+{
+  "name": "en-healthphone",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-healthphone",
+  "title": "HealthPhone Medical Video Collection in English",
+  "logo_url": "healthphone.jpg",
+  "description": "A collection of educational videos on various healthcare topics.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

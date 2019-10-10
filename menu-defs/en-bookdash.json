@@ -1,0 +1,12 @@
+{
+  "name": "en-bookdash",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-bookdash",
+  "title": "Book Dash Books",
+  "logo_url": "book-dash-logo.png",
+  "description": "African story books for children, available for anyone to freely print, translate and distribute. Book Dash believes that every child should own a hundred books by the age of five",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-binofino",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-binofino",
+  "title": "Bino & Fino",
+  "logo_url": "binofino.png",
+  "description": "A Nigerian cartoon teaching children around the world about African culture and much more",
+  "extra_html": "",
+  "footnote": "Size: 275M, MP4 videos: 5, Date: June 2018",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "es-vikidia_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "vikidia_es_all",
+  "title": "Vikidia",
+  "logo_url": "vikidia-logo.png",
+  "description": "La enciclopedia para niños de 8 a 13 años que cualquier persona puede mejorar.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

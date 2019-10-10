@@ -1,0 +1,12 @@
+{
+  "name": "fr-wiktionary_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_fr_all",
+  "moddir": "fr-wiktionary",
+  "title": "Wiktionary en français",
+  "logo_url": "fr-wiktionary.png",
+  "description": "Dictionnaire de langue française",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

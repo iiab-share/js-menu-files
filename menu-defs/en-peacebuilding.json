@@ -1,0 +1,12 @@
+{
+  "name": "en-peacebuilding",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-peacebuilding",
+  "title": "Peacebuilding Resources",
+  "logo_url": "peacebuilding.jpg",
+  "description": "This collection of articles, guides, and videos on building peace is a valuable resource for addressing issues that arise in conflict zones.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

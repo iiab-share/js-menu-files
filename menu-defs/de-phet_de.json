@@ -1,0 +1,15 @@
+{
+  "name": "de-phet_de",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "phet_de",
+  "start_url": "",
+  "title": "PhET Interactive Simulations in German",
+  "logo_url": "phet-logo-48x48.png",
+  "description": "Interactives simulations for Science and Math.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

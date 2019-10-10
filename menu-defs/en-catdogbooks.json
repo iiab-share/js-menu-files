@@ -1,0 +1,14 @@
+{
+  "name": "en-catdogbooks",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-catdogbooks",
+  "start_url": "CatDog.html",
+  "title": "Cat and Dog Books",
+  "logo_url": "en-catdogbooks.png",
+  "description": "Fun books for learning to read.",
+  "extra_html": "",
+  "footnote": "Size: 246M, PDFs: 34, Date: August 2017",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

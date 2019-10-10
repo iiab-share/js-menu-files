@@ -1,0 +1,12 @@
+{
+  "name": "fr-wikipedia_fr_all_nopic",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_fr_all_nopic",
+  "moddir": "fr-wikipedia",
+  "title": "Wikipédia en Français",
+  "logo_url": "fr-wikipedia.png",
+  "description": "Le projet d’encyclopédie libre que vous pouvez améliorer.",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}

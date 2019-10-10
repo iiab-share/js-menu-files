@@ -1,0 +1,12 @@
+{
+  "name": "es-stackoverflow_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "es.stackoverflow.com_es_all",
+  "title": "Stack Overflow en Español",
+  "logo_url": "stackoverflow3.png",
+  "description": "Preguntas y respuestas para programadores y profesionales de la informática.",
+  "extra_html": "",
+  "change_ref": "copy from repo",
+  "change_date": "2019-10-08"
+}
