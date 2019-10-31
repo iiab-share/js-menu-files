@@ -7,6 +7,7 @@
   "title": "Sugarizer",
   "logo_url": "sugarizer.png",
   "description": "A taste of Sugar on any device, used every day by children around the world on the One Laptop per Child project.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
