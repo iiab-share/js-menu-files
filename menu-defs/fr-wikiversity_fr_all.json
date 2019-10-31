@@ -7,6 +7,7 @@
   "title": "Wikiversity en français",
   "logo_url": "fr-wikiversity.png",
   "description": "Matériel pédagogique destiné à être utilisé entre l'école préscolaire et l'université, y compris la formation professionnelle et l'apprentissage informel.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
