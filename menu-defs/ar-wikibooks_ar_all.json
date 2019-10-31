@@ -7,6 +7,7 @@
   "logo_url": "300px-Wikibooks-logo.svg.png",
   "description": "يحتوي مشروع ويكي الكتب على أكثر من ألف (1000)  فصل في مجالات مختلفة ومتنوعة للثقافة البشرية كتب مفتوحة لعالم حر يستطيع الجميع تحريرها",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
