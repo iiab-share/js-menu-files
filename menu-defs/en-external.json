@@ -7,6 +7,7 @@
   "logo_url": "200px-Icon-round-Question_mark.svg.png",
   "description": "Some Description in the selected language",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
