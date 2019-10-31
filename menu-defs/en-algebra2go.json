@@ -8,6 +8,7 @@
   "logo_url": "en-algebra2go.jpg",
   "description": "Pre-algebra lessons with videos and notes from Saddleback College.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
