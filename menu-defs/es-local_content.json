@@ -7,6 +7,7 @@
   "title": "Nuestros Materiales",
   "logo_url": "content.jpg",
   "description": "Materiales recolectados por tus maestros para la escuela",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
