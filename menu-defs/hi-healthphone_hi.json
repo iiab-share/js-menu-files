@@ -8,6 +8,7 @@
   "logo_url": "healthphone.jpg",
   "description": "एक वीडियो संदर्भ पुस्तकालय; परिवारों और समुदायों के लिए बेहतर मातृ एवं बाल स्वास्थ्य और पोषण प्रथाओं के लिए मार्गदर्शिका",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
