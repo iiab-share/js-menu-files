@@ -7,6 +7,7 @@
   "logo_url": "en-wikisource.png",
   "description": "A free English Library from the Wikimedia Foundation.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
