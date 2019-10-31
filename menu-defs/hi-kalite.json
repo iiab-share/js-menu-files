@@ -7,6 +7,7 @@
   "logo_url": "es-kalite.png",
   "description": "KA Lite videos and lessons in Hindi.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
