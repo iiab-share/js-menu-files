@@ -7,6 +7,7 @@
   "logo_url": "220px-Wiktionary-logo.svg.png",
   "description": "Wikcionario es un proyecto colaborativo para producir un diccionario multilingüe libre de contenido. Su objetivo es describir todas las palabras de todas las lenguas que utilizan definiciones y descripciones en español",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
