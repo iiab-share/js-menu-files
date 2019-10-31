@@ -7,6 +7,7 @@
   "title": "WordPress",
   "logo_url": "wordpress-icon.png",
   "description": "¡Escriba un artículo personal (o publicación de blog de revista) para compartir con su comunidad!",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
