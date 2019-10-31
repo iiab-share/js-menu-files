@@ -6,6 +6,7 @@
   "title": "Calibre",
   "logo_url": "calibre2.png",
   "description": "Calibre Offline eBook Server.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
