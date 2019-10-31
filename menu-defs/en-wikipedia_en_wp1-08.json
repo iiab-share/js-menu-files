@@ -6,6 +6,7 @@
   "title": "Wikipedia Picks 0.8",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Wikipedia 45,000 best articles with pictures.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
