@@ -7,6 +7,7 @@
   "title": "OpenStreetMap: 10 Levels of Zoom",
   "logo_url": "osm.jpg",
   "description": "Maps of the entire world, with 10 levels of zoom.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
