@@ -7,6 +7,7 @@
   "logo_url": "Ncwikiquote2.png",
   "description": "La colección de citas donde tú puedes colaborar.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
