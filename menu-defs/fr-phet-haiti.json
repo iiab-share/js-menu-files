@@ -6,6 +6,7 @@
   "title": "PhET Physics - Haiti",
   "logo_url": "fr-phet-haiti.png",
   "description": "Java physics simulations in French (or maybe they're really in English? I can't run them so I don't actually know). Includes Java for Windows.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
