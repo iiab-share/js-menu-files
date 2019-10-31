@@ -8,6 +8,7 @@
   "logo_url": "fr-catdogbooks.png",
   "description": "Livres français de lecture précoce<br>Size: 191M, Files: 32, Age: children",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
