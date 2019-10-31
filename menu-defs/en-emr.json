@@ -7,6 +7,7 @@
   "title": "Electronic Medical Record App",
   "logo_url": "Stethoscope-2.jpg",
   "description": "This application allows medical practitioners to record patient information including consultations.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
