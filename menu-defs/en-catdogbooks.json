@@ -9,6 +9,7 @@
   "description": "Fun books for learning to read.",
   "extra_html": "",
   "footnote": "Size: 246M, PDFs: 34, Date: August 2017",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
