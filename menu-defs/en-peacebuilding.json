@@ -7,6 +7,7 @@
   "logo_url": "peacebuilding.jpg",
   "description": "This collection of articles, guides, and videos on building peace is a valuable resource for addressing issues that arise in conflict zones.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
