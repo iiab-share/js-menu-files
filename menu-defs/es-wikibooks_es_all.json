@@ -7,6 +7,7 @@
   "logo_url": "es-wikibooks.png",
   "description": "Una colección de libros de texto gratuitos para uso educativo, creado y mantenido por los usuarios, para los usuarios. Este contenido es proporcionado por Kiwix.",
   "extra_html": "",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
