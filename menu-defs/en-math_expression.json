@@ -7,6 +7,7 @@
   "logo_url": "en-math_expression.jpg",
   "description": "Basic math videos from MathExpression.com",
   "footnote": "Size: 102M, Articles: 142, Illustrations: 852, Date: August 2017",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
