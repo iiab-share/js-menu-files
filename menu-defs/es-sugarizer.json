@@ -7,6 +7,7 @@
   "title": "Sugarizer",
   "logo_url": "sugarizer.png",
   "description": "Una muestra de la interfaz Sugar en cualquier dispositivo, utilizado diariamente por niños de todo el mundo en el proyecto One Laptop per Child.",
+  "commit_sha": null,
   "change_ref": "copy from repo",
   "change_date": "2019-10-08"
 }
