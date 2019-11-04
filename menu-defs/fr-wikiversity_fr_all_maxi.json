@@ -1,8 +1,8 @@
 {
-  "name": "fr-wikiversity_fr_all",
+  "name": "fr-wikiversity_fr_all_maxi",
   "lang": "fr",
   "intended_use": "zim",
-  "zim_name": "wikiversity_fr_all",
+  "zim_name": "wikiversity_fr_all_maxi",
   "moddir": "fr-wikiversity",
   "title": "Wikiversity en français",
   "logo_url": "fr-wikiversity.png",

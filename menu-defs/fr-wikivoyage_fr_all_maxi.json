@@ -1,8 +1,8 @@
 {
-  "name": "fr-wikivoyage_fr_all",
+  "name": "fr-wikivoyage_fr_all_maxi",
   "lang": "fr",
   "intended_use": "zim",
-  "zim_name": "wikivoyage_fr_all",
+  "zim_name": "wikivoyage_fr_all_maxi",
   "moddir": "fr-wikivoyage",
   "title": "Wikivoyage en français",
   "logo_url": "fr-wikivoyage.png",

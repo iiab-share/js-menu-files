@@ -1,8 +1,8 @@
 {
-  "name": "fr-wikibooks_fr_all",
+  "name": "fr-wikibooks_fr_all_maxi",
   "lang": "fr",
   "intended_use": "zim",
-  "zim_name": "wikibooks_fr_all",
+  "zim_name": "wikibooks_fr_all_maxi",
   "moddir": "fr-wikibooks",
   "title": "Wiki livre",
   "logo_url": "fr-wikibooks.png",
