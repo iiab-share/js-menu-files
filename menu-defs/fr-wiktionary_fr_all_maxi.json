@@ -1,8 +1,8 @@
 {
-  "name": "fr-wiktionary_fr_all",
+  "name": "fr-wiktionary_fr_all_maxi",
   "lang": "fr",
   "intended_use": "zim",
-  "zim_name": "wiktionary_fr_all",
+  "zim_name": "wiktionary_fr_all_maxi",
   "moddir": "fr-wiktionary",
   "title": "Wiktionary en français",
   "logo_url": "fr-wiktionary.png",
