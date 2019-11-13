@@ -8,6 +8,5 @@
   "logo_url": "wordpress-icon3.png",
   "description": "Write a personal article (or post photographs) to share with your community!",
   "extra_html": "en-wordpress.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
