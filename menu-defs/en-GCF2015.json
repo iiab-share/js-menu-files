@@ -7,6 +7,5 @@
   "logo_url": "en-GCF2015.png",
   "description": "Illustrated articles and videos focusing on technology, job training, reading, and math skills.",
   "extra_html": "en-GCF2015.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
