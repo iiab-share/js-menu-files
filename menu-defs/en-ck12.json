@@ -8,6 +8,5 @@
   "description": "High quality PDF textbooks used by 38,000 schools.",
   "extra_html": "en-ck12.html",
   "footnote": "Size: 1.2G, PDFs: 49, Date: August 2017",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
