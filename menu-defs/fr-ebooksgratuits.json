@@ -7,6 +7,5 @@
   "logo_url": "fr-ebooksgratuits.jpg",
   "description": "Over 2000 public domain books in French.",
   "extra_html": "fr-ebooksgratuits.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
