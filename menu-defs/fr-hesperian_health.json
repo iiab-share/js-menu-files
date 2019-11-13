@@ -7,6 +7,5 @@
   "logo_url": "hesperianlogo.png",
   "description": "Des guides faciles &agrave; comprendre, pratiques, pr&eacute;cis et fortement illustr&eacute;s sur les th&egrave;mes de sant&eacute; que dans les r&eacute;gions &eacute;loign&eacute;es o&ugrave; l'acc&egrave;s au personnel m&eacute;dical et les installations sont limit&eacute;es.",
   "extra_html": "fr-hesperian_health.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
