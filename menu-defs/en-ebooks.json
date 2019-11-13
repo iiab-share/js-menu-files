@@ -8,6 +8,5 @@
   "description": "Searchable library of great literature collected from Project Gutenberg.",
   "extra_html": "en-ebooks.html",
   "footnote": "Size: 904M, Books: 426, Date: November 2017",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
