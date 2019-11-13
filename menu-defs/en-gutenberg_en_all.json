@@ -7,7 +7,5 @@
   "logo_url": "Project_Gutenberg_logo.png",
   "description": "The first producer of free ebooks.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
