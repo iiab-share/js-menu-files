@@ -7,6 +7,5 @@
   "logo_url": "phet-logo-48x48.png",
   "description": "Experimentos interactivos de ciencia / matemáticas, para ayudarlo a visualizar conceptos básicos.",
   "extra_html": "es-phet_html.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
