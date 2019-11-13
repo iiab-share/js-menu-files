@@ -1,0 +1,11 @@
+{
+  "name": "kn-wiktionary_kn_all",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_kn_all",
+  "title": "ವಿಕ್ಷನರಿ ಇಂದ",
+  "logo_url": "220px-Wiktionary-logo.svg.png",
+  "description": "",
+  "extra_html": "",
+  "commit_sha": null
+}
