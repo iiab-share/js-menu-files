@@ -7,7 +7,5 @@
   "logo_url": "college-credit-courses.jpg",
   "description": "A collection of online courses in the areas of mathematics, computer science, economics, and game design from MIT.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
