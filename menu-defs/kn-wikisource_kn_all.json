@@ -1,0 +1,11 @@
+{
+  "name": "kn-wikisource_kn_all",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wikisource_kn_all",
+  "title": "ವಿಕಿಸೋರ್ಸ್ ಇಂದ",
+  "logo_url": "410px-Wikisource-logo.svg.png",
+  "description": "",
+  "extra_html": "",
+  "commit_sha": null
+}
