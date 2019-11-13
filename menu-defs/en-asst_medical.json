@@ -6,7 +6,5 @@
   "title": "Medical Information",
   "logo_url": "en-asst_medical.png",
   "description": "General Medical Information from fastonline.org",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
