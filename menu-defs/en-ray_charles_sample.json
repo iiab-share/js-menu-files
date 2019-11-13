@@ -8,7 +8,5 @@
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "This is a sample extract from the Wikipedia on Ray Charles.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
