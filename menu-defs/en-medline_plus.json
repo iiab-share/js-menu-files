@@ -7,7 +7,5 @@
   "logo_url": "en-medline_plus.png",
   "description": "Basic medical encyclopedia from ADAM / Animated Dissection of Anatomy for Medicine, Inc.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
