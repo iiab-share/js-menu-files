@@ -8,6 +8,5 @@
   "description": "KA Lite is the offline version of Khan Academy that includes thousands of learning videos and quizzes.  It is very popular in high schools and includes some university classes too.",
   "extra_html": "en-kalite.html",
   "footnote": "Size: 45G, Videos: 9,855, Quizzes: 4,101, Subtitles: 8,468, August 2017",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
