@@ -7,7 +7,5 @@
   "logo_url": "Project_Gutenberg_logo.png",
   "description": "El primer productor de libros electrónicos gratuitos.<BR><BR>Proyecto Gutenberg ofrece más de 54.000 libros electrónicos gratuitos: elija entre libre epub libros, libre kindle libros, descargarlos o leer en línea. Usted encontrará la gran literatura del mundo aquí, especialmente las obras más antiguas para las que el copyright ha expirado. Los digitalizamos y los revisamos diligentemente con la ayuda de miles de voluntarios.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
