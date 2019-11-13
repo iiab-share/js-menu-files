@@ -7,7 +7,5 @@
   "logo_url": "osm.jpg",
   "description": "To install a Map Pack for a continent or the entire world, use <a href=http://box.lan/admin>Admin Console</a> (see <a href='/info/FAQ.html#What_are_the_default_passwords.3F'>default passwords</a>) > <b>Install Content</b> > <b>Add Map Region</b>.",
   "extra_description": "You can remove this stub from your IIAB home page using <a href=http://box.lan/admin>Admin Console</a> > <b>Manage Content</b> > <b>Content Item List</b>.<p>See also the <a href='https://github.com/iiab/iiab/wiki/IIAB-Maps'>full instructions</a> for IIAB Maps.",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
