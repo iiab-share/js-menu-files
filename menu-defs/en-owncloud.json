@@ -7,7 +7,5 @@
   "title": "Owncloud",
   "logo_url": "owncloud.jpg",
   "description": "A safe home for all your data. Access and share your files, calendars, contacts, mail and more from any device, on your terms.",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
