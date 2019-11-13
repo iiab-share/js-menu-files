@@ -7,7 +7,5 @@
   "logo_url": "en-rpi_guide.png",
   "description": "By Eben Upton and Gareth Halfacree.",
   "footnote": "Size: 79M, PDFs: 4, Date: 2012-2018",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
