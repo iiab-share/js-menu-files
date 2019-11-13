@@ -1,0 +1,11 @@
+{
+  "name": "fr-wikisource_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikisource_fr_all",
+  "moddir": "fr-wikisource",
+  "title": "Wikisource en français",
+  "logo_url": "fr-wikisource.png",
+  "description": "La bibliothèque gratuite que tout le monde peut améliorer.",
+  "commit_sha": null
+}
