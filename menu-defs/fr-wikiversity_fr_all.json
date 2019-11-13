@@ -1,0 +1,11 @@
+{
+  "name": "fr-wikiversity_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikiversity_fr_all",
+  "moddir": "fr-wikiversity",
+  "title": "Wikiversity en français",
+  "logo_url": "fr-wikiversity.png",
+  "description": "Matériel pédagogique destiné à être utilisé entre l'école préscolaire et l'université, y compris la formation professionnelle et l'apprentissage informel.",
+  "commit_sha": null
+}
