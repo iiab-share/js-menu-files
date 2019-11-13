@@ -1,7 +1,5 @@
 {
   "name": "empty",
   "title": "only has a title",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
