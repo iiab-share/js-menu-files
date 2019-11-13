@@ -1,0 +1,16 @@
+{
+  "name": "de-wikiversity_de_all_novid",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wikiversity_de_all_novid",
+  "start_url": "",
+  "title": "Wikiversity in German",
+  "logo_url": "en-wikiversity.png",
+  "description": "Aus Wikiversity.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-07-26"
+}
