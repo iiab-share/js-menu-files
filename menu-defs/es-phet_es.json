@@ -9,7 +9,5 @@
   "extra_description": "PhET es un proyecto de la Universidad de Colorado Boulder, fundado en 2002 por el Premio Nobel Carl Wieman, para mejorar la forma en que se enseña y aprende la ciencia en todo el mundo, a través de simulaciones interactivas gratuitas.",
   "extra_html": "",
   "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
