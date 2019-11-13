@@ -8,6 +8,5 @@
   "logo_url": "content.jpg",
   "description": "Teachers and Librarians: your class handouts (PDF files, photos, public notices etc) will instantly <a href=/usb>Appear Right Here</a> after you insert a USB stick/drive into the Internet-in-a-Box.",
   "extra_html": "en-usb.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
