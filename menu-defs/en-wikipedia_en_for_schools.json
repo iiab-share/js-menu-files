@@ -7,6 +7,5 @@
   "logo_url": "wikipedia4schools.jpg",
   "description": "Encyclopedia contains 6000 of the best articles for children, from the English Wikipedia:",
   "extra_html": "en-wikipedia_for_schools.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
