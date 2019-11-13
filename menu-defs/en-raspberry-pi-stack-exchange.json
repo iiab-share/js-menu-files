@@ -7,7 +7,5 @@
   "logo_url": "stackoverflow3.png",
   "description": "Q&A for users and developers of hardware and software for Raspberry Pi.",
   "extra_html": "",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
