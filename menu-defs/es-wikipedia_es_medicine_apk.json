@@ -1,0 +1,11 @@
+{
+  "name": "es-wikipedia_es_medicine_apk",
+  "lang": "es",
+  "intended_use": "download",
+  "zim_name": "wikipedia_es_medicine_novid",
+  "title": "Enciclopedia Médica Wikipedia Android App",
+  "logo_url": "medwiki.png",
+  "description": "La aplicación de Android wikipedia médica fuera de línea en Español que no necesita conexión a Internet.<p>Descargar la aplicación sin conexión io.iiab.kiwix.wikipedia.medicine.es-17-08.apk (300M)",
+  "extra_html": "",
+  "commit_sha": null
+}
