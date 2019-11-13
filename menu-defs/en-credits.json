@@ -7,7 +7,5 @@
   "title": "Credits",
   "logo_url": "credits.png",
   "description": "Thanks to all those who contributed and curated content used by Internet-in-a-Box.",
-  "commit_sha": null,
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
