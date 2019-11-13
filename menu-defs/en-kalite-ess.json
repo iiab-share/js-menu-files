@@ -8,6 +8,5 @@
   "logo_url": "en-kalite-ess.png",
   "description": "Offline version of Khan Academy.<BR><BR>Khan Academy is a non-profit educational organization created in 2006 by educator Salman Khan with the aim of providing a free, world-class education for anyone, anywhere.<BR><BR> This collection excludes humanities, test-prep, and partner-content, as well as some region-specific math lessons for particular school districts.",
   "extra_html": "en-kalite-ess.html",
-  "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "commit_sha": null
 }
