@@ -8,5 +8,6 @@
   "description": "Una colección de libros de texto gratuitos para uso educativo, creado y mantenido por los usuarios, para los usuarios.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##"
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "commit_sha": null
 }
