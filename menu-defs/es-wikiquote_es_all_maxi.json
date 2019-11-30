@@ -8,5 +8,6 @@
   "description": "La colección de citas donde tú puedes colaborar.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##"
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "commit_sha": null
 }
