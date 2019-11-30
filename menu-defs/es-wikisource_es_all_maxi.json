@@ -6,5 +6,6 @@
   "title": "Wikisource en Español",
   "logo_url": "es-wikisource.png",
   "description": "Una biblioteca gratuita de textos de origen - los documentos que son enciclopedias hecha de - disponibles para su consulta. Este módulo es proporcionado por Kiwix.",
-  "extra_html": ""
+  "extra_html": "",
+  "commit_sha": null
 }
