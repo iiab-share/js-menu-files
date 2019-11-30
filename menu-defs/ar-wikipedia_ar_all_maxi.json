@@ -6,5 +6,6 @@
   "title": "ويكيبيديا باللغة العربية",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "الموسوعة الحرة التي يستطيع الجميع تحريرها. توجد الآن أكثر من 300,000 مقالة بالعربية",
-  "extra_html": ""
+  "extra_html": "",
+  "commit_sha": null
 }
