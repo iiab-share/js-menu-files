@@ -6,5 +6,6 @@
   "title": "وِيكيبيديا الطبية",
   "logo_url": "ar-medwiki.png",
   "description": "مَقالات عن الرعاية الصحية متوافرة بدون اتصال بالإنترنت في كل مكان وبشكل مجاني",
-  "extra_html": ""
+  "extra_html": "",
+  "commit_sha": null
 }
