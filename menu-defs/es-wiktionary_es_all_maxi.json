@@ -8,5 +8,6 @@
   "description": "Wikcionario es un proyecto colaborativo para producir un diccionario multilingüe de contenido libre. Su objetivo es describir todas las palabras de todas las lenguas utilizando definiciones y descripciones en español.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##"
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "commit_sha": null
 }
