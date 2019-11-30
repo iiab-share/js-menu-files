@@ -8,5 +8,6 @@
   "description": "Colorful species directory for young biologists, and environmental education.",
   "extra_description": "It covers Animalia, Plantae, Fungi, Bacteria, Archaea, Protista and all other forms of life.",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##"
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
 }
