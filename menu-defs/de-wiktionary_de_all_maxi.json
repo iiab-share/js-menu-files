@@ -10,6 +10,7 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
   "change_ref": "generated",
   "change_date": "2019-07-25"
 }
