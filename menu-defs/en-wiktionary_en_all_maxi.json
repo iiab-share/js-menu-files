@@ -7,5 +7,6 @@
   "logo_url": "220px-Wiktionary-logo.svg.png",
   "description": "Dictionary from Wikipedia, that aims to describe all words of all languages using definitions and descriptions in English.",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##"
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
 }
