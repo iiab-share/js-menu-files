@@ -1,0 +1,16 @@
+{
+  "name": "en-wikem_en_all_nopic",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikem_en_all_nopic",
+  "start_url": "",
+  "title": "WikEM",
+  "logo_url": "WikEM-Logo-m.png",
+  "description": "kiwix.wikem_en_all",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-11-26"
+}
