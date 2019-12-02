@@ -3,9 +3,14 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "gutenberg_en_all",
+  "start_url": "",
   "title": "Project Gutenberg Library in English",
   "logo_url": "Project_Gutenberg_logo.png",
   "description": "The first producer of free ebooks.",
+  "extra_description": "",
   "extra_html": "",
-  "commit_sha": null
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-12-02"
 }
