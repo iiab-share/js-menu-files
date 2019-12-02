@@ -1,0 +1,16 @@
+{
+  "name": "en-archlinux_en_all_nopic",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "archlinux_en_all_nopic",
+  "start_url": "",
+  "title": "ArchWiki",
+  "logo_url": "",
+  "description": "From ArchWiki",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-11-26"
+}
