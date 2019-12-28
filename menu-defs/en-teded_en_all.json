@@ -1,0 +1,17 @@
+{
+  "name": "en-teded_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "teded_en_all",
+  "start_url": "",
+  "title": "Uploads from TED Ed",
+  "logo_url": "content.jpg",
+  "description": "Uploads from TED Ed videos",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-27"
+}
