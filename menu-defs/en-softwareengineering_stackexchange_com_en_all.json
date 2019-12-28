@@ -1,0 +1,17 @@
+{
+  "name": "en-softwareengineering_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "softwareengineering.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Software Engineering Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for professionals, academics, and students working within the systems development life cycle",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-27"
+}
