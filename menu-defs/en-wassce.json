@@ -1,0 +1,16 @@
+{
+  "name": "en-wassce",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-wassce",
+  "start_url": "",
+  "title": "WASSCE",
+  "logo_url": "en-wassce_logo.jpg",
+  "description": "A collection of examination syllabuses that help the learner prepare for the West Africa Senior Certificate Examination. Files are provided in both .docx and .pdf.",
+  "extra_description": "",
+  "footnote": "Size: 19.2M, Files: 208, Age: young adult,adult",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-22"
+}
