@@ -1,0 +1,17 @@
+{
+  "name": "en-vikidia_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "vikidia_en_all_maxi",
+  "start_url": "",
+  "title": "Vikidia",
+  "logo_url": "content.jpg",
+  "description": "From Vikidia, the encyclopedia for 8 to 13-year-old children that everybody can make better",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-27"
+}
