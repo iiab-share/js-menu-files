@@ -1,0 +1,16 @@
+{
+  "name": "en-PhET",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-PhET",
+  "start_url": "",
+  "title": "PhET",
+  "logo_url": "en-PhET_phet.png",
+  "description": "PhET provides fun, free, interactive, research-based science and mathematics simulations for students from elementary school to university.",
+  "extra_description": "",
+  "footnote": "Size: 611M, Files: 13090, Age: young adult,adult",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-27"
+}
