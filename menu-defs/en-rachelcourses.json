@@ -1,0 +1,16 @@
+{
+  "name": "en-rachelcourses",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-rachelcourses",
+  "start_url": "",
+  "title": "College Credit Courses",
+  "logo_url": "en-rachelcourses_logo.jpg",
+  "description": "A collection of online courses in the areas of mathematics, computer science, economics, and game design from MIT.",
+  "extra_description": "",
+  "footnote": "Size: 22.6G, Files: 7542, Age: young adult,adult",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-26"
+}
