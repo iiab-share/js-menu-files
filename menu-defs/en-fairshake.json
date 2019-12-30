@@ -3,9 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-fairshake",
+  "start_url": "content",
   "title": "FairShake Reentry Resource Center",
   "logo_url": "en-fairshake.png",
   "description": "A huge collection of resources for formerly incarcerated people transitioning back into society.",
+  "extra_description": "",
   "extra_html": "en-fairshake.html",
-  "commit_sha": null
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-30"
 }
