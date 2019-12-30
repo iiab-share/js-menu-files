@@ -1,0 +1,16 @@
+{
+  "name": "en-powertyping",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-powertyping",
+  "start_url": "",
+  "title": "PowerTyping",
+  "logo_url": "PowerTyping.png",
+  "description": "Teaching kids and adults how to type on a computer keyboard.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
+}
