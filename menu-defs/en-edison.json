@@ -3,9 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-edison",
+  "start_url": "",
   "title": "Edison Robotics",
   "logo_url": "en-edison.jpg",
   "description": "The super affordable,Lego compatible robot that's easy to program.",
-  "extra_html": "en-edison.html",
-  "commit_sha": null
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-03"
 }
