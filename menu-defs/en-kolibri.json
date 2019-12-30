@@ -5,7 +5,11 @@
   "start_url": "/",
   "title": "Kolibri",
   "logo_url": "kolibri.png",
-  "description": "Kolibri (might replace KA Lite in future!) provides offline access to a wide range of quality, openly licensed educational content.",
+  "description": "Kolibri makes high quality education technology available in low-resource communities such as rural schools, refugee camps, orphanages, non-formal school systems, and prison systems.",
+  "extra_description": "",
   "extra_html": "en-kolibri.html",
-  "commit_sha": null
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
 }
