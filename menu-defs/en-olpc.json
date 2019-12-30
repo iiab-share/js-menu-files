@@ -3,9 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-olpc",
+  "start_url": "",
   "title": "OLPC Educational Packages",
   "logo_url": "en-olpc.jpg",
-  "description": "",
+  "description": "One Laptop per Child (OLPC) is a non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, and by creating software and content for those devices.",
+  "extra_description": "",
   "extra_html": "en-olpc.html",
-  "commit_sha": null
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-07"
 }
