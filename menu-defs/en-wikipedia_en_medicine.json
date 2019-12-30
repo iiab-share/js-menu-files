@@ -5,12 +5,12 @@
   "zim_name": "wikipedia_en_medicine",
   "start_url": "",
   "title": "WikiMed Medical Encyclopedia",
-  "logo_url": "en-wikipedia.png",
+  "logo_url": "medwiki.png",
   "description": "50.000 healthcare articles from Wikipedia",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
   "commit_sha": null,
-  "change_ref": "generated",
-  "change_date": "2019-11-28"
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
 }
