@@ -2,6 +2,7 @@
   "name": "en-map_test",
   "lang": "en",
   "intended_use": "map",
+  "map_name": "en-map_test",
   "start_url": "maplist",
   "title": "OpenStreetMap Test Page",
   "logo_url": "osm.jpg",
