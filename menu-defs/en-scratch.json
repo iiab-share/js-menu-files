@@ -3,8 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-scratch",
-  "title": "MIT Scratch",
+  "start_url": "",
+  "title": "Scratch by MIT",
   "logo_url": "en-scratch.jpg",
-  "description": "",
-  "commit_sha": null
+  "description": "Scratch is a programming language that makes it easy to create your own interactive stories, animations, games, music, and art -- and share your creations on the web.<BR>Scratch is designed especially for ages 8 to 16, but is used by people of all ages. Millions of people are creating Scratch projects in a wide variety of settings, including homes, schools, museums, libraries, and community centers.<BR><BR>",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
 }
