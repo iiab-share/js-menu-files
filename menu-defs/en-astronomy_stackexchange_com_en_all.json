@@ -1,0 +1,16 @@
+{
+  "name": "en-astronomy_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "astronomy.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Astronomy Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for astronomers and astrophysicists",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}
