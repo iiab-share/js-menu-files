@@ -2,10 +2,14 @@
   "name": "en-sugarizer",
   "lang": "en",
   "intended_use": "webroot",
-  "moddir": "",
   "start_url": "sugarizer",
   "title": "Sugarizer",
   "logo_url": "sugarizer.png",
-  "description": "A taste of Sugar on any device, used every day by children around the world on the One Laptop per Child project.",
-  "commit_sha": null
+  "description": "Sugarizer is a free/libre learning platform. The Sugarizer UI use ergonomic principles from Sugar platform, developed for the One Laptop per Child project and used every day by more than 2 million children around the world.<BR><BR>https://sugarizer.org<BR>",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-05"
 }
