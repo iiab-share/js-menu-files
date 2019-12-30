@@ -2,6 +2,7 @@
   "name": "en-osm-omt_africa",
   "lang": "en",
   "intended_use": "map",
+  "map_name": "en-osm-omt_africa",
   "title": "OpenStreetMap: Africa & Earth",
   "logo_url": "osm.jpg",
   "description": "19 levels of zoom (~1 m details) for Africa, illustrating human geography.<p>10 levels of zoom (~1 km details) for satellite photos, covering the whole world.",
