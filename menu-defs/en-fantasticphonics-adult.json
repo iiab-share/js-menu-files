@@ -6,11 +6,11 @@
   "start_url": "content",
   "title": "Fantastic Phonics - Adult",
   "logo_url": "en-fantasticphonics-adult.png",
-  "description": "",
+  "description": "A Reading Program for the World<BR><BR>Children, Teenagers and Adults",
   "extra_description": "",
   "extra_html": "",
   "footnote": "",
-  "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
 }
