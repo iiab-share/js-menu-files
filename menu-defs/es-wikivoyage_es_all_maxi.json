@@ -7,5 +7,8 @@
   "logo_url": "es-wikivoyage.png",
   "description": "Guía de viaje de todo el mundo con una gran cantidad de información sobre los destinos de todo el mundo. Hacer la geografía cobran vida! Este módulo es proporcionado por Kiwix.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "e15c2cf965a79701f1fb85ce8bfd7f5d81476cdb",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

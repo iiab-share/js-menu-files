@@ -10,5 +10,8 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "4eb66eadb59902fc4554bffd815b2d119e871863",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

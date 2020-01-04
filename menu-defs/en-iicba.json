@@ -7,5 +7,8 @@
   "logo_url": "en-iicba.jpg",
   "description": "",
   "extra_html": "en-iicba.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "724a78748efa39a9ab398e3fc543e568e986f3b4",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

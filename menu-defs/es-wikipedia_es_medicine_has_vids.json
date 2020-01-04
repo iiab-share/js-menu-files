@@ -7,5 +7,8 @@
   "logo_url": "medwiki.png",
   "description": "Se trata de una colección completa de todos los temas de Wikipedia sobre los cuidados relacionados con la salud, la anatomía y la medicación, en un formato que no necesita conexión a Internet.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "c8ed06c87c5b40855dc94b7814b13fb860d6af6b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

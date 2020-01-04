@@ -10,5 +10,8 @@
   "extra_description": "Por último: no dude en retirar su memoria USB en cualquier momento, después de que los usuarios de Wi-Fi hayan descargado lo que necesiten.",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "b3d51701cf8508f1175457520a89ba25d68fda6b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

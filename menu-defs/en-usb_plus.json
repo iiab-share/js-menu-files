@@ -8,5 +8,8 @@
   "logo_url": "content.jpg",
   "description": "",
   "extra_html": "en-usb_plus.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "b6f783518b3212c0b68c25644f1327677851b1c2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

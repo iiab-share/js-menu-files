@@ -8,5 +8,8 @@
   "logo_url": "healthphone.jpg",
   "description": "ویڈیو ریفرنس لائبریری؛ خاندانوں اور کمیونٹیوں کے لئے ماؤں اور بچے کی صحت اور غذائیت کے طریقوں کو بہتر بنانا",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "e0b2c60cf16c73ae210fd9361c7bbf701579b316",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

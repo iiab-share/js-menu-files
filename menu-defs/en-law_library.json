@@ -7,5 +7,8 @@
   "logo_url": "en-law_library.gif",
   "description": "",
   "extra_html": "en-law_library.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "5fc7124e63791538c9723b54888902f8011c7339",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

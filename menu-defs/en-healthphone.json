@@ -7,5 +7,8 @@
   "logo_url": "healthphone.jpg",
   "description": "A collection of educational videos on various healthcare topics.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "a1d930de1edaf7df872d4ec9a7d9e51d708733e1",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

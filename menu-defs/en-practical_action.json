@@ -8,5 +8,8 @@
   "description": "Illustrated info on a wide range of agricultural, environmental, and health topics.",
   "extra_html": "en-practical_action.html",
   "footnote": "Size: 1.1G, PDFs: 446 (in HTML too), August 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "09e9116f91029539e742bfdd977ca2476182698d",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

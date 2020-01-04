@@ -8,5 +8,8 @@
   "logo_url": "fr-blockly-games.png",
   "description": "Jeux pour les programmeurs de demain.",
   "extra_html": "fr-blockly-games.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "8ddfed75f68c833181f9d4a00d3bd36294b7bd2b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

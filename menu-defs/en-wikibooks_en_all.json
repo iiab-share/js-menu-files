@@ -8,5 +8,8 @@
   "description": "Open books for an open world: e-book textbooks from Wikipedia, that anyone can edit.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "49c19a25e1ad050702dc585440fcbc88b7fab495",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

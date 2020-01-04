@@ -9,5 +9,8 @@
   "extra_description": "It covers Animalia, Plantae, Fungi, Bacteria, Archaea, Protista and all other forms of life.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "db7dddef874a98332dbdb438a941cd671c1309fa",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

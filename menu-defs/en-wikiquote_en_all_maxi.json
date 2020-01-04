@@ -8,5 +8,8 @@
   "description": "Wikiquote is a vast reference of sourced quotations from notable people, books, films, proverbs, and creative works in every language -- translated where possible.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "d84fa78dd4fc418695144992ea4b4699138fd489",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

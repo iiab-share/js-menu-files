@@ -3,14 +3,12 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wikipedia_en_medicine_maxi",
-  "start_url": "",
-  "title": "WikiMed Medical Encyclopedia",
-  "logo_url": "en-wikipedia.png",
-  "description": "50.000 healthcare articles from Wikipedia",
-  "extra_description": "",
+  "title": "Medical Encyclopedia in English",
+  "logo_url": "medwiki.png",
+  "description": "A complete collection of all health care, anatomy, and medication related topics from Wikipedia in an offline format.<BR>Like Wikipedia all content is open access, meaning that it is free to download, reuse, share, and build upon.",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null,
-  "change_ref": "generated",
-  "change_date": "2019-09-27"
+  "edit_status": "repo",
+  "commit_sha": "bec8725242782c53d9651d1f8f55eeac15ad1c93",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

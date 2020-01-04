@@ -7,5 +7,8 @@
   "logo_url": "khan-logo-vertical-transparent.png",
   "description": "1949 total video lessons.  And associated exercises.",
   "extra_html": "en-kalite_health.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "5a692cee8a178829f52e3937fb60b543e00ae99f",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

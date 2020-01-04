@@ -6,5 +6,8 @@
   "title": "Understanding Algebra",
   "logo_url": "en-understanding_algebra.png",
   "description": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "97c0c667b4fac803e34c162bef0ee1a0881ef86c",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

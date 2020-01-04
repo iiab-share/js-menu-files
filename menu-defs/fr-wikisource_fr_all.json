@@ -7,5 +7,8 @@
   "title": "Wikisource en français",
   "logo_url": "fr-wikisource.png",
   "description": "La bibliothèque gratuite que tout le monde peut améliorer.",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "5fb5d08b9f6ffe9b82ff3342568e0d560e99c8c6",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

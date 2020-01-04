@@ -9,5 +9,8 @@
   "extra_description": "",
   "extra_html": "es-vedoque.html",
   "footnote": "Tamaño: 24M, Fecha: enero 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "d4dfbf04cce53110d760a6390b160fdd54f7864a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

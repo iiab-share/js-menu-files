@@ -9,5 +9,8 @@
   "extra_description": "",
   "extra_html": "es-bibliofilo.html",
   "footnote": "Tamaño: 701M, Documentos: 900+, Fecha: enero 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "2faddd3fa719e13644ae52c0b4854a2a816f7ffd",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

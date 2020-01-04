@@ -9,5 +9,8 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: 7.6G, Videos: 831, Quizzes: 4,101, Subtitles: 459, August 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "6e8bfbf051c4558c587b489a9cf00ca3469c8e7a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

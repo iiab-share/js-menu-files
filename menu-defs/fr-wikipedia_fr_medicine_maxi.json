@@ -7,5 +7,8 @@
   "logo_url": "medwiki.png",
   "description": "Une collection complète de tous les sujets liés aux soins de santé, à l'anatomie et aux médicaments de Wikipedia dans un format hors ligne.<BR>Comme tout le contenu de Wikipédia est un accès libre, ce qui signifie qu'il est gratuit à télécharger, réutiliser, partager et exploiter.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "782f35adc21f2759987e9d499b50a09e24923edb",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

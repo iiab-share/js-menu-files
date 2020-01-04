@@ -7,7 +7,8 @@
   "logo_url": "wikinews-logo.png",
   "description": "La fuente de noticias libres en la que todos pueden ser reporteros.",
   "extra_html": "",
-  "commit_sha": null,
+  "edit_status": "repo",
+  "commit_sha": "9aecfda122fdefc6aa3bb014ac1ff305d39b889a",
   "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "change_date": "2019-12-16"
 }

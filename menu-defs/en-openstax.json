@@ -10,7 +10,8 @@
   "extra_description": "Topics include business, mathematics, humanities, social science, science, and technology.",
   "extra_html": "",
   "footnote": "Size: 2.9G, PDFs: 45, Date: August 2017",
-  "commit_sha": null,
-  "change_ref": "generated",
-  "change_date": "2019-06-15"
+  "edit_status": "repo",
+  "commit_sha": "fc79a8e5a6bcb97a14287dde093852f3056c377b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

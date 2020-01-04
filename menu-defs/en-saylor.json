@@ -10,5 +10,8 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: 4.3G, Textbooks: 104, HTML: 81, PDFs: 102, docx: 82, doc: 4, Date: August 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "8ab137a433de8b5dfbe8556388cbe4eb35b5344a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

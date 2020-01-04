@@ -8,5 +8,8 @@
   "description": "Dictionary from Wikipedia, that aims to describe all words of all languages using definitions and descriptions in English.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "ae0af3cc728f153b05b04cb2954494c00c392eb3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

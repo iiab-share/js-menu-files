@@ -9,5 +9,8 @@
   "extra_description": "Disponible libremente para cualquier persona, en cualquier lugar.",
   "extra_html": "",
   "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "ff47d9b03587195dbb48ac63f61b180f4e57ded0",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }
