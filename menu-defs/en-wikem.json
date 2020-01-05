@@ -9,5 +9,8 @@
   "description": "WikEM, The Global Emergency Medicine Wiki, is the world's largest emergency medicine open-access reference resource.",
   "extra_html": "",
   "footnote": "Size: 1.4G, PDF's: 14,098, Images: 17,340, Date: May 2017",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "38ea2da148cd3cfe11c8ee7e03e66ebfddcf3a9f",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

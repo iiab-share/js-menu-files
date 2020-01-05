@@ -6,5 +6,8 @@
   "title": "Music Theory",
   "logo_url": "en-musictheory.jpg",
   "description": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "2774b6679e02b6063e9b0de3c97b244cc01780c1",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

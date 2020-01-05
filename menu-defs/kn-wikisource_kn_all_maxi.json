@@ -7,7 +7,8 @@
   "logo_url": "410px-Wikisource-logo.svg.png",
   "description": "",
   "extra_html": "",
-  "commit_sha": null,
+  "edit_status": "repo",
+  "commit_sha": "52be4254a9d085607193e2f1516ddae4e8214f84",
   "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "change_date": "2019-12-16"
 }

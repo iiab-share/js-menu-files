@@ -8,5 +8,8 @@
   "logo_url": "elgg.png",
   "description": "Elgg is a social networking engine used by offline schools to create a collaborative environment.",
   "extra_html": "en-elgg.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "7a8344db26b0e86e92ec825d711e4496bda7aad3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

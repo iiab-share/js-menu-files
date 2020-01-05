@@ -8,5 +8,8 @@
   "description": "Simple English dictionary from Wikipedia, for children and non-native speakers.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "764575ea4a4f5cb3ebad517ae6e6eb6e3a8a7c9d",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

@@ -7,5 +7,8 @@
   "logo_url": "Wikipedia-logo-v2-gom.png",
   "description": "Konknni Wikipediacheo soglleo lekh interneta vinnem ani sodunk zata toslem rupan. Mozkur open access asa, mhonnge khors nastanam download korunk, porot vaprunk, vantunk ani tacher anink zodunk zata. Mellun fudlem avrutti anik-ui borem korum-ia.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "ce55360e36fecd901dbe1c3f029a9ecce17d0e61",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

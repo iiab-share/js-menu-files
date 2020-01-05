@@ -9,5 +9,8 @@
   "extra_description": "About 6 Million articles can be searched using any word(s) that appear in article titles (this is fast!)<p>Or, do a deep search using any keyword(s) that appear further down in the articles themselves (have patience, this takes time!)",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "6b61dfcaaf3022ef9e79e349e8c4089ce4259b87",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

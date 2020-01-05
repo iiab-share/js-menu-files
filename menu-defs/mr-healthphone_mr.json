@@ -8,5 +8,8 @@
   "logo_url": "healthphone.jpg",
   "description": "एक व्हिडिओ संदर्भ ग्रंथालय; कुटुंब आणि समुदायांसाठी चांगल्या माता व बालकांच्या आरोग्यासाठी आणि पोषण पद्धतींसाठी मार्गदर्शन.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "2b1fe9db990aac7f6296d5119bdeadf0c931411f",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

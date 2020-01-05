@@ -7,5 +7,8 @@
   "logo_url": "en-afristory-za.jpg",
   "description": "Books from the African Storybook Project in the 11 official languages of South Africa.",
   "extra_html": "en-afristory-za.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "82e4a09ab3260f82f90deb2a610cc4d540436303",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

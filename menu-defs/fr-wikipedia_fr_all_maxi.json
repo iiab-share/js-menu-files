@@ -7,7 +7,8 @@
   "title": "Wikipédia en français",
   "logo_url": "fr-wikipedia.png",
   "description": "Le projet d’encyclopédie libre que vous pouvez améliorer",
-  "commit_sha": null,
+  "edit_status": "repo",
+  "commit_sha": "b73f0aaf8122df1c8aac139981bda2994c018862",
   "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "change_date": "2019-12-16"
 }

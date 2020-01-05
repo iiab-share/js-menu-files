@@ -7,7 +7,8 @@
   "title": "Wiki livre",
   "logo_url": "fr-wikibooks.png",
   "description": "Une collection de manuels scolaires ouverts sur différents sujets d'apprentissage.",
-  "commit_sha": null,
+  "edit_status": "repo",
+  "commit_sha": "c4f7c8ee4c5efb48e5c0a7722fae763525ea9e85",
   "change_ref": "copy from repo",
-  "change_date": "2019-10-08"
+  "change_date": "2019-12-16"
 }

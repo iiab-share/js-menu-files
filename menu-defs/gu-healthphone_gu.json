@@ -8,5 +8,8 @@
   "logo_url": "healthphone.jpg",
   "description": "વિડિઓ સંદર્ભ પુસ્તકાલય; પરિવારો અને સમુદાયો માટે બહેતર માતૃત્વ અને બાળ આરોગ્ય અને પોષણ પ્રણાલીઓ માટે માર્ગદર્શન.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "3bf684793ff740bb3853396bf8971e8381b0ca44",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

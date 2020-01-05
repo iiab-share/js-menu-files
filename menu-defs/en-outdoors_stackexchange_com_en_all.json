@@ -10,7 +10,8 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null,
-  "change_ref": "generated",
-  "change_date": "2019-07-26"
+  "edit_status": "repo",
+  "commit_sha": "190687391fb6bfc578c57314dbfb374c7f4aac03",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

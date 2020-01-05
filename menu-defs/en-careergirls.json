@@ -8,5 +8,8 @@
   "logo_url": "career-girls.png",
   "description": "Enormous collection of videos of women speaking about their work in a wide variety of fields.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "f52399d418935edbef8dcc4b8bd83b91edcf5578",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

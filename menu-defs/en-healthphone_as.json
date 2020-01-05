@@ -8,5 +8,8 @@
   "logo_url": "healthphone.jpg",
   "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "274492e4bb8621d6560274803a0eb9e86c0a3bb2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

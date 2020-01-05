@@ -8,5 +8,8 @@
   "description": "A Nigerian cartoon teaching children around the world about African culture and much more",
   "extra_html": "",
   "footnote": "Size: 275M, MP4 videos: 5, Date: June 2018",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "279ffbcc23356766c1d11914f17dcb32d746e93c",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

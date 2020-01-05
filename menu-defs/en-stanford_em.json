@@ -7,5 +7,8 @@
   "logo_url": "stanford_em2.jpg",
   "description": "A collection of Emergency Medicine training videos from the Stanford School of Medicine.",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "60cfed4398c52e032da0accddbc08829f3c36cd4",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

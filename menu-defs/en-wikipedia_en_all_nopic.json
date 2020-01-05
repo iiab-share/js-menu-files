@@ -7,5 +7,8 @@
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Searchable encyclopedia of 5,468,599 articles (without pictures) from August 2017.",
   "extra_html": "en-wikipedia_en_all_nopic.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "c04eb6f2777937319b2324864b177b308afccd94",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

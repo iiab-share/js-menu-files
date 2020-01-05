@@ -6,5 +6,8 @@
   "title": "MedlinePlus (Static)",
   "logo_url": "en-medline_plus-static.png",
   "description": "For use only on the USB version of RACHEL",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "b31affe3d66d25e579bdbaea26c972ad0f49902a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

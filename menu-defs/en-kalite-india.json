@@ -7,5 +7,8 @@
   "logo_url": "khan-logo-vertical-transparent.png",
   "description": "",
   "extra_html": "en-kalite-india.html",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "42c5d0e3e672938b45b20d2f3d732866f92d8aa5",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }

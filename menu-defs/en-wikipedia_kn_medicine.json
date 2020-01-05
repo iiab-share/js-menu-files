@@ -7,5 +7,8 @@
   "logo_url": "medwiki.png",
   "description": "",
   "extra_html": "",
-  "commit_sha": null
+  "edit_status": "repo",
+  "commit_sha": "cd62437ca63b0ac5aae2dd831800e6ecac78ef32",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
 }
