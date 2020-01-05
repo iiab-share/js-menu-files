@@ -1,0 +1,16 @@
+{
+  "name": "en-moderators_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "moderators.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Community Building Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for community managers, administrators, and moderators",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

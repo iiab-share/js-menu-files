@@ -1,0 +1,17 @@
+{
+  "name": "en-openstax",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-openstax",
+  "start_url": "OpenStax.html",
+  "title": "OpenStax Textbooks",
+  "logo_url": "en-openstax.jpeg",
+  "description": "University textbooks from OpenStax (openstax.org) based at Rice University.",
+  "extra_description": "Topics include business, mathematics, humanities, social science, science, and technology.",
+  "extra_html": "",
+  "footnote": "Size: 2.9G, PDFs: 45, Date: August 2017",
+  "edit_status": "repo",
+  "commit_sha": "fc79a8e5a6bcb97a14287dde093852f3056c377b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

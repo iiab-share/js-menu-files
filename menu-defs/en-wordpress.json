@@ -1,0 +1,15 @@
+{
+  "name": "en-wordpress",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "wordpress",
+  "title": "WordPress",
+  "logo_url": "wordpress-icon3.png",
+  "description": "Write a personal article (or post photographs) to share with your community!",
+  "extra_html": "en-wordpress.html",
+  "edit_status": "repo",
+  "commit_sha": "e61060793f6670f10c88a416775ef1f60758ae4a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

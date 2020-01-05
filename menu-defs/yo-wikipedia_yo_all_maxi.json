@@ -1,0 +1,14 @@
+{
+  "name": "yo-wikipedia_yo_all_maxi",
+  "lang": "yo",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_yo_all_maxi",
+  "title": "Wikipedia ní Yorùbá",
+  "logo_url": "Wikipedia-logo-v2-yo.png",
+  "description": "Àwọn àyọkà ìléra tí ó péye láti Wikipedia ti Yorùbá ti aládàáṣẹ́ àti èyí ti a lè ṣàwárí rẹ̀ ní ìgúnrégé. Àyè ṣí sílè láti láànfàní sí àkóónú rẹ̀, ní èyí tí ó túmọ̀ sí wípé ọ̀fẹ́ ni láti gbàá sílẹ̀ jáde, ìṣàtúnlò, pínpín, àti àfikún rẹ̀. Darapọ̀ mọ́wa láti jẹ́ kí èyí ta fẹ́ ṣe dára ju tàtẹ̀yìnwá lọ",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "736dbb299a1dd4b6c9b8ab00c6ae8103686d4aa9",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-math_expression",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-math_expression",
+  "title": "Math Expression",
+  "logo_url": "en-math_expression.jpg",
+  "description": "Basic math videos from MathExpression.com",
+  "footnote": "Size: 102M, Articles: 142, Illustrations: 852, Date: August 2017",
+  "edit_status": "repo",
+  "commit_sha": "2bcb849e74ac3d1d06d8a783a351803829ad08af",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

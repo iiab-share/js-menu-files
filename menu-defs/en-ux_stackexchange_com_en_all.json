@@ -1,0 +1,17 @@
+{
+  "name": "en-ux_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "ux.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "User Experience Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for user experience researchers and experts.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "10e5998228bd524cceeab6e7ddb1030fefb94eb2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-emr",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "emr",
+  "title": "Electronic Medical Record App",
+  "logo_url": "Stethoscope-2.jpg",
+  "description": "This application allows medical practitioners to record patient information including consultations.",
+  "edit_status": "repo",
+  "commit_sha": "d3e0bba52e46772519190eee0c7db3ba2f894a58",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

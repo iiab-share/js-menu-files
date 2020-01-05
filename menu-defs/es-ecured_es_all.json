@@ -1,0 +1,17 @@
+{
+  "name": "es-ecured_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "ecured_es_all",
+  "start_url": "A/Golfo_de_M%C3%A9xico.html",
+  "title": "EcuRed",
+  "logo_url": "ecured.jpg",
+  "description": "Enciclopedia Cubana 'con un objetivo sin fines de lucro, a favor de la democracia desde un punto de vista descolonizador'.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "f4a28f829d7bd923814bd0c3812578a20096946a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

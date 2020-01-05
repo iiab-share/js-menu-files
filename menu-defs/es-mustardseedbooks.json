@@ -1,0 +1,16 @@
+{
+  "name": "es-mustardseedbooks",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-mustardseedbooks/MustardSeedBooksSP.html",
+  "title": "Mustard Seed Books",
+  "logo_url": "es-mustardseedbooks.png",
+  "description": "Juegos y animaciones interactivas y entretenidas para aprender divirtiéndose sobre numerosos temas.\r\n",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamaño: 37M, PDFs: 37, Fecha: agosto 2017",
+  "edit_status": "repo",
+  "commit_sha": "88b671835871e160cce65a54866cfd5f742a5034",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

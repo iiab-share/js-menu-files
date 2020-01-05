@@ -1,0 +1,16 @@
+{
+  "name": "es-wikipedia_es_all_maxi",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_es_all_maxi",
+  "title": "Wikipedia",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "Wikipedia es la enciclopedia más grande del mundo, creada, moderada, y editada por usuarios para los usuarios.",
+  "extra_description": "Disponible libremente para cualquier persona, en cualquier lugar.",
+  "extra_html": "",
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "ff47d9b03587195dbb48ac63f61b180f4e57ded0",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

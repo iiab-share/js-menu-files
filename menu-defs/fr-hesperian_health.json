@@ -1,0 +1,14 @@
+{
+  "name": "fr-hesperian_health",
+  "lang": "fr",
+  "intended_use": "html",
+  "moddir": "fr-hesperian_health",
+  "title": "Hesperian Guides de Sant&eacute; en Fran&ccedil;ais",
+  "logo_url": "hesperianlogo.png",
+  "description": "Des guides faciles &agrave; comprendre, pratiques, pr&eacute;cis et fortement illustr&eacute;s sur les th&egrave;mes de sant&eacute; que dans les r&eacute;gions &eacute;loign&eacute;es o&ugrave; l'acc&egrave;s au personnel m&eacute;dical et les installations sont limit&eacute;es.",
+  "extra_html": "fr-hesperian_health.html",
+  "edit_status": "repo",
+  "commit_sha": "09d65e8633b9d8e62a8be22f660b7bfa301bb3b2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

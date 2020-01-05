@@ -1,0 +1,14 @@
+{
+  "name": "fa-wikipedia_fa_all_maxi",
+  "lang": "fa",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_fa_all_maxi",
+  "title": "ویکی‌پدیا فارسی",
+  "logo_url": "Wikipedia-logo-v2-fa.png",
+  "description": "مجموعه کامل مقالات ویکیپدیا فارسی در فرمت آفلاین و قابل جستجو. محتوا در دسترسی آزاد است، یعنی رایگان است برای دانلود، استفاده دوباره، به اشتراک‌گذاری، و ساخت بر اساس نیاز. به ما بپیوندید و نسخه بعدی را بهتر کنید",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "5bbe5c60061ce8c8d33d9416a5f7c677b6df8ac6",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

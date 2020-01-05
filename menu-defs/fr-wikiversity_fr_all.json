@@ -1,0 +1,14 @@
+{
+  "name": "fr-wikiversity_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikiversity_fr_all",
+  "moddir": "fr-wikiversity",
+  "title": "Wikiversity en français",
+  "logo_url": "fr-wikiversity.png",
+  "description": "Matériel pédagogique destiné à être utilisé entre l'école préscolaire et l'université, y compris la formation professionnelle et l'apprentissage informel.",
+  "edit_status": "repo",
+  "commit_sha": "8f3006f14b2b0937aff80af7a63b90086b163012",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

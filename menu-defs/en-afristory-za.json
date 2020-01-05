@@ -1,0 +1,14 @@
+{
+  "name": "en-afristory-za",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-afristory-za",
+  "title": "African Storybooks - South Africa",
+  "logo_url": "en-afristory-za.jpg",
+  "description": "Books from the African Storybook Project in the 11 official languages of South Africa.",
+  "extra_html": "en-afristory-za.html",
+  "edit_status": "repo",
+  "commit_sha": "82e4a09ab3260f82f90deb2a610cc4d540436303",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

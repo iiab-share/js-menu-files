@@ -1,0 +1,16 @@
+{
+  "name": "en-siyavula",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-siyavula",
+  "start_url": "",
+  "title": "Siyavula",
+  "logo_url": "en-siyavula_logo.jpeg",
+  "description": "Mathematics and Physical Science Textbooks & Teacher's Guides (grades 10-12)",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 967M, Files: 75, Age: young adult",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
+}

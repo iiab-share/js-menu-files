@@ -1,0 +1,13 @@
+{
+  "name": "es-ap_didact",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-ap_didact",
+  "title": "Aplicaciones Didacticas",
+  "logo_url": "es-ap_didact.gif",
+  "description": "Varias actividades didactics de www.aplicaciones.info contribuido por Arturo Ramo",
+  "edit_status": "repo",
+  "commit_sha": "044519cfd6d2a00e519f03da68cc3a900f708c5e",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

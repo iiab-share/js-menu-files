@@ -1,0 +1,14 @@
+{
+  "name": "fr-wikivoyage_fr_all_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikivoyage_fr_all_maxi",
+  "moddir": "fr-wikivoyage",
+  "title": "Wikivoyage en français",
+  "logo_url": "fr-wikivoyage.png",
+  "description": "Guide de voyage dans le monde entier avec une mine d'informations sur les destinations du monde entier.",
+  "edit_status": "repo",
+  "commit_sha": "d1d19bf0a5a28a734f38c16fc0b96f36c4c4f21a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

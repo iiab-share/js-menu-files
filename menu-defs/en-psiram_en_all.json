@@ -1,0 +1,17 @@
+{
+  "name": "en-psiram_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "psiram_en_all",
+  "start_url": "",
+  "title": "Psiram",
+  "logo_url": "",
+  "description": "From Psiram",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "b179c63f90ccd96f0a46531be448dd1d0dfcb810",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

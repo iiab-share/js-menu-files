@@ -1,0 +1,14 @@
+{
+  "name": "en-law_library",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-law_library",
+  "title": "Oregon Law Library 2014",
+  "logo_url": "en-law_library.gif",
+  "description": "",
+  "extra_html": "en-law_library.html",
+  "edit_status": "repo",
+  "commit_sha": "5fc7124e63791538c9723b54888902f8011c7339",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

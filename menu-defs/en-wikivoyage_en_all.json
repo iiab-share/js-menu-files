@@ -1,0 +1,14 @@
+{
+  "name": "en-wikivoyage_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikivoyage_en_all",
+  "title": "Wiki Voyage",
+  "logo_url": "en-wikivoyage.png",
+  "description": "The free worldwide travel guide that anyone can edit.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "257ac7fc45bbd546c0a99ff4fbe55a3eba8d1c8d",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

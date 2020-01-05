@@ -1,0 +1,13 @@
+{
+  "name": "es-wikipedia_es_all_nopic",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_es_all_nopic",
+  "title": "Wikipedia en Español",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "Wikipedia es la enciclopedia más grande del mundo, creado, moderado, y editado por los usuarios para los usuarios. Esta enciclopedia tiene más de 1 347 581 de artículos con ilustraciones y está libremente disponible para cualquier persona, en cualquier lugar. Esta versión completa de búsqueda fue proporcionado por Kiwix.",
+  "edit_status": "repo",
+  "commit_sha": "db777ca19219658cf5a0b9be0c86febca785ce8b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

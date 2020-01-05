@@ -1,0 +1,14 @@
+{
+  "name": "en-credits",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "common/html/credits.html",
+  "title": "Credits",
+  "logo_url": "credits.png",
+  "description": "Thanks to all those who contributed and curated content used by Internet-in-a-Box.",
+  "edit_status": "repo",
+  "commit_sha": "4993ff248c14ffd4719d430ca5d9f85aedd05af3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

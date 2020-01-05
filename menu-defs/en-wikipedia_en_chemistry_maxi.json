@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_chemistry_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_chemistry_maxi",
+  "start_url": "",
+  "title": "Chemistry by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on chemistry",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

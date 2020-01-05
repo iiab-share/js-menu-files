@@ -1,0 +1,17 @@
+{
+  "name": "de-wikiversity_de_all_maxi",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wikiversity_de_all_maxi",
+  "start_url": "",
+  "title": "Wikiversity in German",
+  "logo_url": "en-wikiversity.png",
+  "description": "Aus Wikiversity.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "fc3c032b023f29b6ee5c389b8f6131cf8e03b55f",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

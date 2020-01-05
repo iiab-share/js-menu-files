@@ -1,0 +1,14 @@
+{
+  "name": "en-local_content",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "local_content",
+  "title": "Our Materials",
+  "logo_url": "content.jpg",
+  "description": "Materials collected by your teacher and school",
+  "edit_status": "repo",
+  "commit_sha": "9e469a5a232d215d93d6e779f3ac3f933389d548",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

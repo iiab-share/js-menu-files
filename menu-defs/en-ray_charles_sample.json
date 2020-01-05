@@ -1,0 +1,15 @@
+{
+  "name": "en-ray_charles_sample",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_ray_charles",
+  "start_url": "A/Ray_Charles_at_Newport.html",
+  "title": "Ray Charles Wikipedia Sample",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "This is a sample extract from the Wikipedia on Ray Charles.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "cfb6445446d08d923df6bfe724d57b3cdd2d6058",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

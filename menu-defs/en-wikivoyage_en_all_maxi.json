@@ -1,0 +1,17 @@
+{
+  "name": "en-wikivoyage_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikivoyage_en_all_maxi",
+  "start_url": "",
+  "title": "Wikivoyage",
+  "logo_url": "en-wikivoyage.png",
+  "description": "The &quot;Wikipedia of travel guides&quot; for travel destinations and travel topics, written by volunteer authors.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "a2fcacea4f7cb06d1967b8367b0ad173c6d07bec",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

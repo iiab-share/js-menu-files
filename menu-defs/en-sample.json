@@ -1,0 +1,15 @@
+{
+  "name": "en-sample",
+  "lang": "en",
+  "intended_use": "info",
+  "moddir": "",
+  "title": "Put a short, one line name for the item here. Ideally it would be unique.",
+  "logo_url": "hamburger.png",
+  "description": "Put a full description of the item here, but not more than one paragraph.",
+  "extra_description": "If there is more description, put it here.",
+  "footnote": "You can put catalog type information here like number of pdfs or size. Also you can use the ##SIZE## and other substitution fields for zims.",
+  "edit_status": "repo",
+  "commit_sha": "60179b5e93da7578162f257d1fce88d8ecda434a",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

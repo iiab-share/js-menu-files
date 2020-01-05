@@ -1,0 +1,15 @@
+{
+  "name": "kiwix-all-root",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "kiwix",
+  "title": "Wiki and Kiwix",
+  "logo_url": "KiwixLogoVertical2.svg.png",
+  "description": "Kiwix is a free software that brings knowledge to millions around the world, even in remote places. This may be a school in the countryside. This may be you traveling and saving on roaming costs. Wherever you go: Kiwix gives you access to Wikipedia, Project Gutenberg, TED talks and much more – even if you don’t have an Internet connection.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "en-storybooks",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-storybooks",
+  "title": "English Storybooks",
+  "logo_url": "en-storybooks_logo.jpg",
+  "description": "A collection of storybooks in English from several sources.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 1.63G, Files: 496, Age: children",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

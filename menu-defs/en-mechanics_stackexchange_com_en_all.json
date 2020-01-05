@@ -1,0 +1,16 @@
+{
+  "name": "en-mechanics_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "mechanics.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Motor Vehicle Maintenance & Repair Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for mechanics and DIY enthusiast owners of cars, trucks, and motorcycles",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "es-biblioteca",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-biblioteca",
+  "title": "Biblioteca",
+  "logo_url": "es-biblioteca.png",
+  "description": "Excelente colección de materiales educativos y de referencia para América Latina.",
+  "extra_description": "",
+  "extra_html": "es-biblioteca.html",
+  "footnote": "Tamaño: 7.8G, Artículos: 1115, Medios: 438, Fecha: enero 2017",
+  "edit_status": "repo",
+  "commit_sha": "adb07333e0ce76005586772727f74725c90c5a0b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

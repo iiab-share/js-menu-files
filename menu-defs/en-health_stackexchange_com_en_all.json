@@ -1,0 +1,17 @@
+{
+  "name": "en-health_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "health.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Medical Sciences Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for professionals in medical and allied health fields, students of those professions, related academics, and others with a sound understanding of medicine and healthcare-related sciences",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-30"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-radiolab",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-radiolab",
+  "title": "Radiolab",
+  "logo_url": "en-radiolab.png",
+  "description": "New York public radio recordings, weaving stories and science into sound and music-rich documentaries.",
+  "footnote": "Size: 6.2G, Seasons: 12, MP3s: 171, Date: August 2017",
+  "edit_status": "repo",
+  "commit_sha": "dabfe5e836cd4738860d2bdfe5e9df3eb99a991d",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

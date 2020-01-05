@@ -1,0 +1,14 @@
+{
+  "name": "en-internetarchive",
+  "lang": "en",
+  "intended_use": "internetarchive",
+  "title": "Internet Archive Decentralized Web",
+  "logo_url": "Internet_Archive_logo_and_wordmark.svg",
+  "description": "Internet Archive Decentralized Web helps you create your own offline digital library e.g. from <a href=http://dweb.archive.org>http://dweb.archive.org</a>",
+  "extra_description": "It includes a crawler that can regularly synchronize local collections, against a list of Internet Archive items and collections, and those collections can be moved between installations.  When connected to the internet, it works as a Proxy, i.e. it will store Internet Archive content the user views for later offline viewing.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "5d00d97b3e85fa63ad785118f9e698ecd35b3086",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

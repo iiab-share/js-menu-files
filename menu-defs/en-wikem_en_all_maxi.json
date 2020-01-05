@@ -1,0 +1,17 @@
+{
+  "name": "en-wikem_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikem_en_all_maxi",
+  "start_url": "",
+  "title": "WikEM",
+  "logo_url": "WikEM-Logo-m.png",
+  "description": "kiwix.wikem_en_all",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "07c73b2d8625a6ee2506a7e3fbad3c7db663134d",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

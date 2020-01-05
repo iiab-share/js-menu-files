@@ -1,0 +1,14 @@
+{
+  "name": "en-fairshake",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-fairshake",
+  "title": "FairShake Reentry Resource Center",
+  "logo_url": "en-fairshake.png",
+  "description": "A huge collection of resources for formerly incarcerated people transitioning back into society.",
+  "extra_html": "en-fairshake.html",
+  "edit_status": "repo",
+  "commit_sha": "d42355c3316650fa1895d82ab60ebc3c428e0c5b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-nextcloud",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "nextcloud",
+  "title": "Nextcloud",
+  "logo_url": "nextcloud.png",
+  "description": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on your local server.",
+  "edit_status": "repo",
+  "commit_sha": "7ad9c4c5696e22e130473e54a56633f6e2fa2b1b",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

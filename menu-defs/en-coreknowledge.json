@@ -1,0 +1,17 @@
+{
+  "name": "en-coreknowledge",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-coreknowledge",
+  "start_url": "CoreKnowledge.html",
+  "title": "Core Knowledge",
+  "logo_url": "en-coreknowledge.png",
+  "description": "Teaching materials in PDF format for preschool to grade 5 from Core Knowledge (www.coreknowledge.org) in language arts, social studies and science.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 2.43G, Files: 526, Age: children",
+  "edit_status": "repo",
+  "commit_sha": "0b3e812128ee7c571192d81665904eeed2d387ee",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

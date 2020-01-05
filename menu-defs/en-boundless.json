@@ -1,0 +1,17 @@
+{
+  "name": "en-boundless",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-boundless",
+  "start_url": "www.boundless.com/subjects/index.html",
+  "title": "Boundless Textbooks",
+  "logo_url": "boundless-logo.png",
+  "description": "High quality searchable, browsable textbooks with clickable inline definitions.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 3.8G, Subjects: 22, Date: August 2017",
+  "edit_status": "repo",
+  "commit_sha": "5f7f03e1ee9520e46591576cc83312a11d334fcb",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

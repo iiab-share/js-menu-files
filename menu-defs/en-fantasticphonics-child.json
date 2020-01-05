@@ -1,0 +1,16 @@
+{
+  "name": "en-fantasticphonics-child",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-fantasticphonics-child",
+  "start_url": "content",
+  "title": "Fantastic Phonics - Child",
+  "logo_url": "en-fantasticphonics-child.png",
+  "description": "A Reading Program for the World<BR><BR>Children, Teenagers and Adults",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - clone",
+  "change_date": "2019-09-29"
+}

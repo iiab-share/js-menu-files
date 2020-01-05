@@ -1,0 +1,13 @@
+{
+  "name": "en-scale-of-universe",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-scale-of-universe",
+  "title": "Scale of the Universe",
+  "logo_url": "en-scale-of-universe.jpg",
+  "description": "Interactive exploration of size - from quarks to galaxy clusters. Requires flash (included in Chrome)",
+  "edit_status": "repo",
+  "commit_sha": "c74198437a1a7c6a00b1c8fac9658294f3a6dea2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

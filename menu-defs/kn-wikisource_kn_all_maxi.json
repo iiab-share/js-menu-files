@@ -1,0 +1,14 @@
+{
+  "name": "kn-wikisource_kn_all_maxi",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wikisource_kn_all_maxi",
+  "title": "ವಿಕಿಸೋರ್ಸ್ ಇಂದ",
+  "logo_url": "410px-Wikisource-logo.svg.png",
+  "description": "",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "52be4254a9d085607193e2f1516ddae4e8214f84",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

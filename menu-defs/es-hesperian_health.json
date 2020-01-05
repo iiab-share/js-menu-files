@@ -1,0 +1,16 @@
+{
+  "name": "es-hesperian_health",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-hesperian_health",
+  "title": "Guías de la Salud de Hesperian",
+  "logo_url": "es-hesperian_health.png",
+  "description": "Información de alta calidad, prácticas, fáciles de entender, confiables y que contienen una gran riqueza de ilustraciones sobre temas de salud. Referencias muy útiles en zonas remotas donde el acceso a personal médico es limitado.",
+  "extra_description": "",
+  "extra_html": "es-hesperian_health.html",
+  "footnote": "Tamaño: 80M, PDFs: 7, Fecha: enero 2017",
+  "edit_status": "repo",
+  "commit_sha": "c8fcfc1ff1f3f237c7037b38494f5b4494531249",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "en-healthphone_mni",
+  "lang": "mni",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "healthphone/mni",
+  "title": "মৈতৈলোন্ (Manipuri): HealthPhone Health and Nutrition Video Collection & Apps",
+  "logo_url": "healthphone.jpg",
+  "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "cdfd726bd0d4416f29d0888ac50bd2f5db255280",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "en-artofproblemsolving_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "artofproblemsolving_en_all",
+  "start_url": "",
+  "title": "AoPSWiki",
+  "logo_url": "",
+  "description": "AoPSWiki",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "45722dbf3b5f762fb91dc9464f56754ff97dd236",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

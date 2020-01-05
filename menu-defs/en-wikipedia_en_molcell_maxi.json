@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_molcell_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_molcell_maxi",
+  "start_url": "",
+  "title": "Wikipedia Molecular and Cell Biology",
+  "logo_url": "en-wikipedia.png",
+  "description": "30,000 Molecular and Cell Biology articles from Wikipedia",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

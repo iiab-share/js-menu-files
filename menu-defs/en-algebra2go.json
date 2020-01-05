@@ -1,0 +1,15 @@
+{
+  "name": "en-algebra2go",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-algebra2go",
+  "start_url": "pagefiles/",
+  "title": "Algebra2go",
+  "logo_url": "en-algebra2go.jpg",
+  "description": "Pre-algebra lessons with videos and notes from Saddleback College.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "0356756948d9cad54187885a41bd31c4ad94a2c6",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

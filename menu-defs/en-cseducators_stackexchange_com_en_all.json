@@ -1,0 +1,17 @@
+{
+  "name": "en-cseducators_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "cseducators.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Computer Science Educators Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for those involved in the field of teaching Computer Science.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "69bb725b1c2051af5d44398d2a9a4420463b9b45",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

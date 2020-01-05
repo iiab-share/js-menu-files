@@ -1,0 +1,16 @@
+{
+  "name": "en-parenting_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "parenting.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Parenting Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for parents, grandparents, nannies and others with a parenting role",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-09-27"
+}

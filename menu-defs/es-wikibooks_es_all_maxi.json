@@ -1,0 +1,16 @@
+{
+  "name": "es-wikibooks_es_all_maxi",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikibooks_es_all_maxi",
+  "title": "Wikilibros",
+  "logo_url": "es-wikibooks.png",
+  "description": "Una colección de libros de texto gratuitos para uso educativo, creado y mantenido por los usuarios, para los usuarios.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "5f79e6dcd097e26d939b68b1d4acee25024ddee7",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "en-biology_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "biology.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Biology Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for biology researchers, academics, and students.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "2433fe10e1e308a4cd29685f78c04a8a5257665e",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

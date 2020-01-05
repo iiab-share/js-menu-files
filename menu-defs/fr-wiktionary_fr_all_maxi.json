@@ -1,0 +1,14 @@
+{
+  "name": "fr-wiktionary_fr_all_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_fr_all_maxi",
+  "moddir": "fr-wiktionary",
+  "title": "Wiktionary en français",
+  "logo_url": "fr-wiktionary.png",
+  "description": "Dictionnaire de langue française",
+  "edit_status": "repo",
+  "commit_sha": "c1ed5a74845627919568679d90b5719e1bdfcb40",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

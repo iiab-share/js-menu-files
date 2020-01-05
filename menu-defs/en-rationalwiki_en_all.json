@@ -1,0 +1,17 @@
+{
+  "name": "en-rationalwiki_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "rationalwiki_en_all",
+  "start_url": "",
+  "title": "RationalWiki",
+  "logo_url": "",
+  "description": "From RationalWiki",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "55a60701e87b8f22c7a2764faf98d5c19dfe0dda",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

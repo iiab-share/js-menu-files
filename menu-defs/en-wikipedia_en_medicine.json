@@ -1,0 +1,17 @@
+{
+  "name": "en-wikipedia_en_medicine",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_medicine",
+  "start_url": "",
+  "title": "WikiMed Medical Encyclopedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "50.000 healthcare articles from Wikipedia",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "8db98f0d7a7d5a55f9d2a36f95554f5f44e56698",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

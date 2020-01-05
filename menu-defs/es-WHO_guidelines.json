@@ -1,0 +1,13 @@
+{
+  "name": "es-WHO_guidelines",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-WHO_guidelines",
+  "title": "Directrices mundiales de la OMS ♦ Organización Mundial de la Salud",
+  "logo_url": "who_logo_s-raised.png",
+  "description": "El Comité de Examen de Directrices fue establecido para elaborar y aplicar procedimientos de desarrollo de directrices que velen por que las directrices de la OMS sean congruentes con las prácticas óptimas aceptadas internacionalmente, incluido el uso apropiado de los datos probatorios.",
+  "edit_status": "repo",
+  "commit_sha": "ee255789340007edf736da5d00ac1068d9a1e2e9",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

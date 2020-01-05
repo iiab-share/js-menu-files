@@ -1,0 +1,17 @@
+{
+  "name": "en-wikipedia_en_geography_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_geography_maxi",
+  "start_url": "",
+  "title": "Geography by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on geography",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "dba1a6eca58b795098637be41db462963173f3c9",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "en-learnsaylor",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-learnsaylor",
+  "start_url": "",
+  "title": "Learn Saylor",
+  "logo_url": "en-learnsaylor_logo.jpeg",
+  "description": "Free and open online courses for people everywhere",
+  "extra_description": "",
+  "footnote": "Size: 52.5G, Files: 11903, Age: adult",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-27"
+}

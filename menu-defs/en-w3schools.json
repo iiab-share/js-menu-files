@@ -1,0 +1,15 @@
+{
+  "name": "en-w3schools",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "modules/en-w3schools/default.html",
+  "title": "w3schools",
+  "logo_url": "KiwixLogoVertical2.svg.png",
+  "description": "W3Schools is an educational website for learning web technologies online.[1] Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-10-12"
+}

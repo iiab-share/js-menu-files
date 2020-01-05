@@ -1,0 +1,15 @@
+{
+  "name": "en-wikiquote_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikiquote_en_all",
+  "title": "Wikiquote",
+  "logo_url": "Ncwikiquote2.png",
+  "description": "Wikiquote is a vast reference of sourced quotations from notable people, books, films, proverbs, and creative works in every language -- translated where possible.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "b43ad3931bc69e85cf53f45c59a541fc91ab42d4",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "de-wikiquote_de_all_maxi",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wikiquote_de_all_maxi",
+  "start_url": "",
+  "title": "Wikiquote in German",
+  "logo_url": "Ncwikiquote2.png",
+  "description": "Aus Wikiquote, der freien Zitatsammlung.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "eb31cc347b9488b942c5765d7aeb013ef9efd8d5",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

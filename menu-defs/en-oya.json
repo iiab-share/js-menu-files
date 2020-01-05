@@ -1,0 +1,14 @@
+{
+  "name": "en-oya",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-oya",
+  "title": "Oregon Youth Authority",
+  "logo_url": "en-oya.gif",
+  "description": "",
+  "extra_html": "en-oya.html",
+  "edit_status": "repo",
+  "commit_sha": "72464fd61045ea3e22b0aba525e4a7040a2155f3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

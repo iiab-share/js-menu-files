@@ -1,0 +1,17 @@
+{
+  "name": "es-wikihow",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-wikihow",
+  "start_url": "content/Portada.html",
+  "title": "wikiHow",
+  "logo_url": "es-wikihow.png",
+  "description": "Guías ilustradas detalladamente, escrito en colaboración por personas de todo el mundo.",
+  "extra_description": "",
+  "extra_html": "es-wikihow.html",
+  "footnote": "Tamaño: 13G, Artículos: 59796, Medios: 551384, Fecha: Febrero 2018",
+  "edit_status": "repo",
+  "commit_sha": "ee8a1a021d32db906cf7a0e05c3f120ac6c2bba5",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

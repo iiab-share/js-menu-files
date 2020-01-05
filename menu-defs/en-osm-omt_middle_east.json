@@ -1,0 +1,14 @@
+{
+  "name": "en-osm-omt_middle_east",
+  "lang": "en",
+  "intended_use": "map",
+  "title": "OpenStreetMap: Middle East & Earth",
+  "logo_url": "osm.jpg",
+  "description": "19 levels of zoom (~1 m details) for Middle East, illustrating human geography.<p>10 levels of zoom (~1 km details) for satellite photos, covering the whole world.",
+  "extra_description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "1d89fe6543c493c1636f02e37453d816297b6ca9",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

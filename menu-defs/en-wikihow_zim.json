@@ -1,0 +1,16 @@
+{
+  "name": "en-wikihow_zim",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikihow_en",
+  "start_url": "",
+  "title": "WikiHow- How to do anything",
+  "logo_url": "es-wikihow.png",
+  "description": "We're trying to help everyone on the planet learn how to do anything.<BR><BR>",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit",
+  "change_date": "2019-09-29"
+}

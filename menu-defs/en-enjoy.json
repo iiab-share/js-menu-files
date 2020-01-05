@@ -1,0 +1,13 @@
+{
+  "name": "en-enjoy",
+  "lang": "en",
+  "intended_use": "info",
+  "moddir": "usb",
+  "title": "Enjoy",
+  "logo_url": "content.jpg",
+  "description": "Enjoy exploring and building your library! volunteer@unleashkids.org",
+  "edit_status": "repo",
+  "commit_sha": "9bb61421ec44dbc09463dc5d2c202c2d58688a32",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

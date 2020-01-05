@@ -1,0 +1,15 @@
+{
+  "name": "pa-healthphone_pa",
+  "lang": "pa",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "healthphone/pa",
+  "title": "ਪੰਜਾਬੀ (Punjabi): ਹੈਲਥਪੋਨ ਸਿਹਤ ਅਤੇ ਪੋਸ਼ਣ ਵੀਡੀਓ ਕਲੈਕਸ਼ਨ ਅਤੇ ਐਪਸ",
+  "logo_url": "healthphone.jpg",
+  "description": "ਇੱਕ ਵੀਡੀਓ ਰੈਫਰੈਂਸ ਲਾਇਬ੍ਰੇਰੀ; ਪਰਿਵਾਰਾਂ ਅਤੇ ਭਾਈਚਾਰਿਆਂ ਲਈ ਬਿਹਤਰ ਮਾਵਾਂ ਅਤੇ ਬਾਲ ਸਿਹਤ ਅਤੇ ਪੋਸ਼ਣ ਸੰਬੰਧੀ ਅਮਲਾਂ ਲਈ ਮਾਰਗਦਰਸ਼ਨ.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "7ce7bcc96d872fed09f93a36639ac8caae2d6b32",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-owncloud",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "owncloud",
+  "title": "Owncloud",
+  "logo_url": "owncloud.jpg",
+  "description": "A safe home for all your data. Access and share your files, calendars, contacts, mail and more from any device, on your terms.",
+  "edit_status": "repo",
+  "commit_sha": "38bdcaa0dea71345b3a1ec1a1159f1ab818f5326",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

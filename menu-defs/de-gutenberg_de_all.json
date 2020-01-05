@@ -1,0 +1,17 @@
+{
+  "name": "de-gutenberg_de_all",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_de_all",
+  "start_url": "",
+  "title": "Project Gutenberg Library in German",
+  "logo_url": "gutenberg.jpg",
+  "description": "The first producer of free ebooks.  Includes epub, html and pdf.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "5ec3d295d31ac8981a726707831a64abbda72dbc",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

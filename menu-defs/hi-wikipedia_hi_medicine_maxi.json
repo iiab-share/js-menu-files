@@ -1,0 +1,14 @@
+{
+  "name": "hi-wikipedia_hi_medicine_maxi",
+  "lang": "hi",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_hi_medicine_maxi",
+  "title": "विकिमेद चिकित्सा ज्ञानकोश विकिपीडिया से",
+  "logo_url": "medwiki.png",
+  "description": "एक ऑफ़लाइन प्रारूप में विकिपीडिया से सभी स्वास्थ्य देखभाल, शरीर विज्ञान और दवा संबंधी विषयों का एक पूरा संग्रह।<BR><BR>विकिपीडिया की तरह सभी सामग्री खुली पहुंच है, जिसका अर्थ है कि इसे डाउनलोड, पुन: उपयोग, साझा करने, और बनाने के लिए मुफ़्त है।",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "e8aef77613c26a7864932bc8b6e03fef1ddd488e",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

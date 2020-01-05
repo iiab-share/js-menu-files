@@ -1,0 +1,17 @@
+{
+  "name": "en-wikipedia_en_mathematics_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_mathematics_maxi",
+  "start_url": "",
+  "title": "Mathematics by Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of Wikipedia articles on mathematics",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "683c434d33a794ce2425e75109f2ded785403830",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-scratch",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-scratch",
+  "title": "MIT Scratch",
+  "logo_url": "en-scratch.jpg",
+  "description": "",
+  "edit_status": "repo",
+  "commit_sha": "7dfeed21300ae8f99b08045ac3b685de185bb223",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

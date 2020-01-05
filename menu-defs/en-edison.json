@@ -1,0 +1,14 @@
+{
+  "name": "en-edison",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-edison",
+  "title": "Edison Robotics",
+  "logo_url": "en-edison.jpg",
+  "description": "The super affordable,Lego compatible robot that's easy to program.",
+  "extra_html": "en-edison.html",
+  "edit_status": "repo",
+  "commit_sha": "779b9ca096e3982a6892581b4004d8b333011824",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

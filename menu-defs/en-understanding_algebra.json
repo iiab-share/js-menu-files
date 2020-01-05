@@ -1,0 +1,13 @@
+{
+  "name": "en-understanding_algebra",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-understanding_algebra",
+  "title": "Understanding Algebra",
+  "logo_url": "en-understanding_algebra.png",
+  "description": "",
+  "edit_status": "repo",
+  "commit_sha": "97c0c667b4fac803e34c162bef0ee1a0881ef86c",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

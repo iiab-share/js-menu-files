@@ -1,0 +1,14 @@
+{
+  "name": "ar-tabshoura_kg",
+  "lang": "ar",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "tabshoura_kg",
+  "title": "طبشورة",
+  "logo_url": "TabshourakINDERGARTEN489x230.jpg",
+  "description": " Tabshoura Kindergarten هو مشروع يندرج ضمن الأنشطة التعليمية للمنظّمة غير الحكوميّة L.A.L. Lebanese Alternative Learning",
+  "edit_status": "repo",
+  "commit_sha": "012c83d31c8cacd63cbc21cc5235369501934342",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

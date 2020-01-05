@@ -1,0 +1,17 @@
+{
+  "name": "en-ted_en_entertainment",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "ted_en_entertainment",
+  "start_url": "",
+  "title": "TED talks - Entertainment",
+  "logo_url": "content.jpg",
+  "description": "Ideas worth spreading",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2019-12-24"
+}

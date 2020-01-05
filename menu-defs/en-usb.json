@@ -1,0 +1,15 @@
+{
+  "name": "en-usb",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "usb",
+  "title": "Insert a USB Stick/Drive to Publish Files Here",
+  "logo_url": "content.jpg",
+  "description": "Teachers and Librarians: your class handouts (PDF files, photos, public notices etc) will instantly <a href=/usb>Appear Right Here</a> after you insert a USB stick/drive into the Internet-in-a-Box.",
+  "extra_html": "en-usb.html",
+  "edit_status": "repo",
+  "commit_sha": "d31c5211e8c75a981cde71205ce1acc19189a9d1",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

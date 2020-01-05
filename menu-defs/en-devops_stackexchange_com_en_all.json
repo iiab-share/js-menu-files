@@ -1,0 +1,17 @@
+{
+  "name": "en-devops_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "devops.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "DevOps Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for software engineers working on automated testing, continuous delivery, service integration and monitoring, and building SDLC infrastructure.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "18aded827784b2b866a46ecab955f3daefb42973",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

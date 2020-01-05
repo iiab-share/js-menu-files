@@ -1,0 +1,15 @@
+{
+  "name": "en-cdc",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-cdc",
+  "start_url": "www.cdc.gov/index.html",
+  "title": "Extract of the CDC Web Site",
+  "logo_url": "200px-US_CDC_logo.svg.png",
+  "description": "The CDC (Centers for Disease Control and Prevention) is one of the major operating components of the US Department of Health and Human Services.<BR>This extract is a small fraction of the material at www.cdc.gov and does not include audio, videos, pdfs and other large files. So some links, including to other parts of cdc.gov, will only work if you are connected to the Internet.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "a6d76ab83c0c4c4603b7b90faff88c73e3723d71",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "en-elementaryos_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "elementaryos.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "elementary OS Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for developers and users of elementary OS and applications",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "a38bdd84727373bf3bfa6e47a8df602621b6d2d2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

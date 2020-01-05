@@ -1,0 +1,14 @@
+{
+  "name": "en-wikipedia_en_medicine_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_medicine_maxi",
+  "title": "Medical Encyclopedia in English",
+  "logo_url": "medwiki.png",
+  "description": "A complete collection of all health care, anatomy, and medication related topics from Wikipedia in an offline format.<BR>Like Wikipedia all content is open access, meaning that it is free to download, reuse, share, and build upon.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "bec8725242782c53d9651d1f8f55eeac15ad1c93",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

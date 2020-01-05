@@ -1,0 +1,17 @@
+{
+  "name": "en-chemistry_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "chemistry.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Chemistry Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for scientists, academics, teachers, and students in the field of chemistry.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "bd5028a048cf5581c642c291598d6c20cf141261",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "en-kalite",
+  "lang": "en",
+  "intended_use": "kalite",
+  "start_url": "learn/khan/math/",
+  "title": "Khan Academy Lite",
+  "logo_url": "khan-logo-vertical-transparent.png",
+  "description": "KA Lite is the offline version of Khan Academy that includes thousands of learning videos and quizzes.  It is very popular in high schools and includes some university classes too.",
+  "extra_html": "en-kalite.html",
+  "footnote": "Size: 45G, Videos: 9,855, Quizzes: 4,101, Subtitles: 8,468, August 2017",
+  "edit_status": "repo",
+  "commit_sha": "489ad36e57e22f6f669691ae20240714758867a2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "en-wikihow_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikihow_en",
+  "title": "wikiHow",
+  "logo_url": "es-wikihow.png",
+  "description": "Illustrated how-to guides, on practical and personal/life topics.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "777ff5d17b893d90ea117c25ed295f0d9b774b41",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

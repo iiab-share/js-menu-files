@@ -1,0 +1,15 @@
+{
+  "name": "en-healthphone_kfq",
+  "lang": "kfq",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "healthphone/kfq",
+  "title": "Korku: HealthPhone Health and Nutrition Video Collection & Apps",
+  "logo_url": "healthphone.jpg",
+  "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "b40e20244185797b2be5b374a36a6dc3a301f756",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

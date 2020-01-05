@@ -1,0 +1,17 @@
+{
+  "name": "en-ell_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "ell.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "English Language Learners Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for speakers of other languages learning English.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "9b9daff34fda0ac0980bc9f2d2d92f08923db498",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-raspberry-pi-stack-exchange",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "raspberrypi.stackexchange.com_eng_all",
+  "title": "Raspberry Pi Stack Exchange",
+  "logo_url": "stackoverflow3.png",
+  "description": "Q&A for users and developers of hardware and software for Raspberry Pi.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "753a5693286ef75f336f9ad47890ae61e05376f3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

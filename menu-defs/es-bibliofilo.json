@@ -1,0 +1,16 @@
+{
+  "name": "es-bibliofilo",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-bibliofilo",
+  "title": "Bibliofilo",
+  "logo_url": "es-bibliofilo.png",
+  "description": "Excelente colección de materiales filosófico-políticos para Latinoamérica.\r\n",
+  "extra_description": "",
+  "extra_html": "es-bibliofilo.html",
+  "footnote": "Tamaño: 701M, Documentos: 900+, Fecha: enero 2017",
+  "edit_status": "repo",
+  "commit_sha": "2faddd3fa719e13644ae52c0b4854a2a816f7ffd",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

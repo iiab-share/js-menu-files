@@ -1,0 +1,14 @@
+{
+  "name": "es-sugarizer",
+  "lang": "es",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "sugarizer",
+  "title": "Sugarizer",
+  "logo_url": "sugarizer.png",
+  "description": "Una muestra de la interfaz Sugar en cualquier dispositivo, utilizado diariamente por niños de todo el mundo en el proyecto One Laptop per Child.",
+  "edit_status": "repo",
+  "commit_sha": "11fbae3ce6ca34f1dcdc80edfe934115a1cd9538",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

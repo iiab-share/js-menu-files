@@ -1,0 +1,15 @@
+{
+  "name": "en-healthphone_kokana",
+  "lang": "kokana",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "healthphone/kokana",
+  "title": "Kokana: HealthPhone Health and Nutrition Video Collection & Apps",
+  "logo_url": "healthphone.jpg",
+  "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "679dddab71f5fc0ba1b5180742d988f4ae921ea3",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

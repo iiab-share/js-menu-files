@@ -1,0 +1,16 @@
+{
+  "name": "en-afristory",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-afristory",
+  "title": "African Storybook Project",
+  "logo_url": "en-afristory.jpg",
+  "description": "A collection of illustrated children's stories from many African cultures.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 178M, PDFs: 257, JPGs: 257, Date: May 2018",
+  "edit_status": "repo",
+  "commit_sha": "f67671b39178f1f02559467aa35ae5b79405a4f8",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

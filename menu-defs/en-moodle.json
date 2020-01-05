@@ -1,0 +1,14 @@
+{
+  "name": "en-moodle",
+  "lang": "en",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "moodle",
+  "title": "Moodle",
+  "logo_url": "moodle-logo.png",
+  "description": "Moodle is a learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments.",
+  "edit_status": "repo",
+  "commit_sha": "b2e26873e8774f46dd63dc73c65f971807af1d55",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

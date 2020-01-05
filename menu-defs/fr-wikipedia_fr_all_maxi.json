@@ -1,0 +1,14 @@
+{
+  "name": "fr-wikipedia_fr_all_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_fr_all_maxi",
+  "moddir": "fr-wikipedia",
+  "title": "Wikipédia en français",
+  "logo_url": "fr-wikipedia.png",
+  "description": "Le projet d’encyclopédie libre que vous pouvez améliorer",
+  "edit_status": "repo",
+  "commit_sha": "b73f0aaf8122df1c8aac139981bda2994c018862",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "en-ham_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "ham.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Amateur Radio Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for amateur radio enthusiasts.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "75b86361fcc0bd5c88d302eb4a5ff27fe77246f6",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

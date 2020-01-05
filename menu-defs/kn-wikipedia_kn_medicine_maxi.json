@@ -1,0 +1,14 @@
+{
+  "name": "kn-wikipedia_kn_medicine_maxi",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_kn_medicine_maxi",
+  "title": "Medical Wikipedia in Kannada",
+  "logo_url": "medwiki.png",
+  "description": "",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "d910a5643c2b9195118141ebe878b6a655f073c0",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

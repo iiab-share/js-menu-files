@@ -1,0 +1,14 @@
+{
+  "name": "es-worldmap-10",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "en-worldmap-10",
+  "start_url": "map.html",
+  "title": "OpenStreetMap",
+  "logo_url": "osm.jpg",
+  "description": "Mapas del mundo, con 10 niveles de zoom. Busca 5000 ciudades. Presione 'Enter' después de escribir el nombre de la ciudad.",
+  "edit_status": "repo",
+  "commit_sha": "149c3240e602ac4bcfb9189cef7afe79d4847b08",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

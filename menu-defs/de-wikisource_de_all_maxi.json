@@ -1,0 +1,17 @@
+{
+  "name": "de-wikisource_de_all_maxi",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wikisource_de_all_maxi",
+  "start_url": "",
+  "title": "Wikisource in German",
+  "logo_url": "en-wikisource.png",
+  "description": "Aus Wikisource, der freien Quellensammlung.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "b699a43a126c5cc6aca7a17a09cb9f1c127e3ca2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

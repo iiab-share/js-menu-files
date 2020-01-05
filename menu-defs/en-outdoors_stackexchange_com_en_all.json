@@ -1,0 +1,17 @@
+{
+  "name": "en-outdoors_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "outdoors.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "The Great Outdoors Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for people who love being outdoors enjoying nature and wilderness, and learning about the required skills and equipment.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "190687391fb6bfc578c57314dbfb374c7f4aac03",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

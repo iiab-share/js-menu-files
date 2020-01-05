@@ -1,0 +1,17 @@
+{
+  "name": "en-reverseengineering_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "reverseengineering.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Reverse Engineering Stack Exchange",
+  "logo_url": "stackexchange.png",
+  "description": "Q&A for researchers and developers who explore the principles of a system through analysis of its structure, function, and operation.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "d0dd3e5c08e7313ebcbe6b5401e18e6019bc6208",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "en-cups",
+  "lang": "en",
+  "intended_use": "cups",
+  "moddir": "/",
+  "title": "Common Unix Printing System",
+  "logo_url": "CUPS.svg",
+  "description": "CUPS is the standards-based, open source printing system for Linux and macOS.",
+  "edit_status": "repo",
+  "commit_sha": "e92f99d010d3a78c0e2604c562a454114bb330fd",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

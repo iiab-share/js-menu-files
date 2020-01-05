@@ -1,0 +1,14 @@
+{
+  "name": "kn-wiktionary_kn_all_maxi",
+  "lang": "kn",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_kn_all_maxi",
+  "title": "ವಿಕ್ಷನರಿ ಇಂದ",
+  "logo_url": "220px-Wiktionary-logo.svg.png",
+  "description": "",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "2d948ad0f1d045166daeb06b1ad97a7c7f3db989",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

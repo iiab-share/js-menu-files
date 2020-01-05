@@ -1,0 +1,17 @@
+{
+  "name": "es-creditos",
+  "lang": "es",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "common/html/credits.html",
+  "title": "Créditos",
+  "logo_url": "credits.png",
+  "description": "Gracias a todos los que contribuyeron y revisaron el contenido utilizado por Internet-in-a-Box.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "repo",
+  "commit_sha": "4eb66eadb59902fc4554bffd815b2d119e871863",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

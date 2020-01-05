@@ -1,0 +1,13 @@
+{
+  "name": "en-calibre",
+  "lang": "en",
+  "intended_use": "calibre",
+  "start_url": "",
+  "title": "Calibre",
+  "logo_url": "calibre2.png",
+  "description": "Calibre Offline eBook Server.",
+  "edit_status": "repo",
+  "commit_sha": "9b9024466e762a9c05ddc974573ed753505f29ba",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

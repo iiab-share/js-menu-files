@@ -1,0 +1,15 @@
+{
+  "name": "en-osm-omt_world",
+  "lang": "en",
+  "intended_use": "map",
+  "title": "OpenStreetMap: Planet Earth",
+  "logo_url": "osm.jpg",
+  "description": "19 levels of zoom (~1 m details) for Planet Earth, illustrating human geography.<p>10 levels of zoom (~1 km details) for satellite photos, covering the whole world.",
+  "extra_description": "Search for cities/towns with more than 1000 people.",
+  "extra_html": "",
+  "footnote": "Size: 52G, Zoom levels: 14 (overzoom to level 18+), Searchable cities/towns: 127,654, Date: August 2017",
+  "edit_status": "repo",
+  "commit_sha": "e49f2e8715121624fdff5098055055724638a0e5",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

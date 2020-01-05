@@ -1,0 +1,17 @@
+{
+  "name": "en-wikiquote_en_all_nopic",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikiquote_en_all_nopic",
+  "start_url": "",
+  "title": "Wikiquote",
+  "logo_url": "",
+  "description": "From Wikiquote",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "9ec0fdff1bf92f29c3f7d9f58af28411c0c3f080",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

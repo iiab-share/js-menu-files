@@ -1,0 +1,15 @@
+{
+  "name": "fr-catdogbooks",
+  "lang": "fr",
+  "intended_use": "html",
+  "moddir": "fr-catdogbooks",
+  "start_url": "CatDogFR.html",
+  "title": "Chat et Chien",
+  "logo_url": "fr-catdogbooks.png",
+  "description": "Livres français de lecture précoce<br>Size: 191M, Files: 32, Age: children",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": "698d631fa3e0fec3900b2460cc7fb4facd91df2c",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

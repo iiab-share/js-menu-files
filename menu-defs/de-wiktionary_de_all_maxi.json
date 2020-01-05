@@ -1,0 +1,17 @@
+{
+  "name": "de-wiktionary_de_all_maxi",
+  "lang": "de",
+  "intended_use": "zim",
+  "zim_name": "wiktionary_de_all_maxi",
+  "start_url": "",
+  "title": "Wiktionary in German",
+  "logo_url": "en-wiktionary.png",
+  "description": "Aus Wiktionary, dem freien Wörterbuch.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "repo",
+  "commit_sha": "b1e16e551d3c33b4b30e4796113739c735f0e8b2",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "en-GCF2015",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-GCF2015",
+  "title": "GCF2015",
+  "logo_url": "en-GCF2015.png",
+  "description": "Illustrated articles and videos focusing on technology, job training, reading, and math skills.",
+  "extra_html": "en-GCF2015.html",
+  "edit_status": "repo",
+  "commit_sha": "6d30592af42b4c73f61ef77e1ef10c3bd7a4b503",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "es-wordpress",
+  "lang": "es",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "wordpress",
+  "title": "WordPress",
+  "logo_url": "wordpress-icon.png",
+  "description": "¡Escriba un artículo personal (o publicación de blog de revista) para compartir con su comunidad!",
+  "edit_status": "repo",
+  "commit_sha": "116d695fee1fbb9d8076f7467a8dc0182dc8d2df",
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}
