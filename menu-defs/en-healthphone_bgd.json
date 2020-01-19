@@ -1,15 +1,17 @@
 {
   "name": "en-healthphone_bgd",
   "lang": "bgd",
-  "intended_use": "webroot",
-  "moddir": "",
-  "start_url": "healthphone/bgd",
+  "intended_use": "html",
+  "moddir": "bgd-healthphone",
+  "start_url": "videos",
   "title": "Pawri: HealthPhone Health and Nutrition Video Collection & Apps",
   "logo_url": "healthphone.jpg",
   "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "18a7c94a6785b03dcefb17ea2f8bcd3bcdf2e808",
+  "commit_sha": "a5c8216c0ff4dcf4fce7b6887d937e2249dd07c7",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }
