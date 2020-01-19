@@ -1,15 +1,17 @@
 {
   "name": "en-healthphone_en",
   "lang": "en",
-  "intended_use": "webroot",
-  "moddir": "",
-  "start_url": "healthphone/en",
+  "intended_use": "html",
+  "moddir": "en-healthphone",
+  "start_url": "videos",
   "title": "English: HealthPhone Health and Nutrition Video Collection & Apps",
   "logo_url": "healthphone.jpg",
   "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "241cf200fc829d81f354af8d1a87586429e8fa86",
+  "commit_sha": "1890c18b630f902a9c63fa6ec09cc8791091984b",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }

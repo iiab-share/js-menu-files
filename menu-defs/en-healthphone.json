@@ -8,7 +8,9 @@
   "description": "A collection of educational videos on various healthcare topics.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "a1d930de1edaf7df872d4ec9a7d9e51d708733e1",
+  "commit_sha": "c1608f16f92306b087bc6808334a3687eb9d4e2d",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }

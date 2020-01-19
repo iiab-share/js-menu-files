@@ -1,15 +1,17 @@
 {
   "name": "te-healthphone_te",
   "lang": "te",
-  "intended_use": "webroot",
-  "moddir": "",
-  "start_url": "healthphone/te",
+  "intended_use": "html",
+  "moddir": "te-healthphone",
+  "start_url": "videos",
   "title": "తెలుగు (Telugu): HealthPhone హెల్త్ అండ్ న్యూట్రిషన్ వీడియో కలెక్షన్ & యాప్స్",
   "logo_url": "healthphone.jpg",
   "description": "వీడియో సూచన లైబ్రరీ; కుటుంబాలు మరియు కమ్యూనిటీల కోసం మంచి తల్లి మరియు శిశు ఆరోగ్యం మరియు పోషకాహార విధానాలకు మార్గదర్శకత్వం చేయండి.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "d2b8ace6f67a7626d951fbe8b1cdc6b914f42bec",
+  "commit_sha": "68f8b7ea11e2afbe665b41f935751a692dfff56b",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }

@@ -1,15 +1,17 @@
 {
   "name": "en-healthphone_as",
   "lang": "as",
-  "intended_use": "webroot",
-  "moddir": "",
-  "start_url": "healthphone/as",
+  "intended_use": "html",
+  "moddir": "as-healthphone",
+  "start_url": "videos",
   "title": "অসমীয়া (Assamese): HealthPhone Health and Nutrition Video Collection & Apps",
   "logo_url": "healthphone.jpg",
   "description": "A video reference library; guide to better maternal and child health and nutrition practices, for families and communities.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "274492e4bb8621d6560274803a0eb9e86c0a3bb2",
+  "commit_sha": "c7e736f4f329f9932a753a1b2c813acb36512258",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }

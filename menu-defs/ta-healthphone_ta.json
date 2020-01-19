@@ -1,15 +1,17 @@
 {
   "name": "ta-healthphone_ta",
   "lang": "ta",
-  "intended_use": "webroot",
-  "moddir": "",
-  "start_url": "healthphone/ta",
+  "intended_use": "html",
+  "moddir": "ta-healthphone",
+  "start_url": "videos",
   "title": "தமிழ் (Tamil): HealthPhone உடல்நலம் மற்றும் ஊட்டச்சத்து வீடியோ சேகரிப்பு & பயன்பாடுகள்",
   "logo_url": "healthphone.jpg",
   "description": "வீடியோ குறிப்பு நூலகம்; குடும்பங்கள் மற்றும் சமூகங்களுக்கான சிறந்த தாய்வழி மற்றும் குழந்தை ஆரோக்கியம் மற்றும் ஊட்டச்சத்து நடைமுறைகளுக்கு வழிகாட்டுதல்.",
   "extra_html": "",
   "edit_status": "repo",
-  "commit_sha": "0a2ec045e928571b35c1cea9aa3e52efae2e0dad",
+  "commit_sha": "ec7573238f29f43ca44315fe5130cd073ced768a",
   "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "change_date": "2020-01-11",
+  "upload_flag": false,
+  "download_flag": true
 }
