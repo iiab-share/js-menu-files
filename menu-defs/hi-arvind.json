@@ -1,16 +1,16 @@
 {
   "name": "hi-arvind",
-  "lang": "hi",
+  "lang": "en",
   "intended_use": "html",
   "moddir": "hi-arvind",
-  "title": "Toys from Trash in Hindi",
-  "logo_url": "hi-arvind.png",
-  "description": "",
+  "start_url": "",
+  "title": "Do It Yourself Toys from Trash",
+  "logo_url": "arvind.jpg",
+  "description": "A world famous toy maker and populariser of science, Arvind Gupta needs no introduction. The man has one mission: Make science as interesting, accessible, cost effective and creative for as many children in the world as possible. And with this selfless vision, he has lead one of the most successful and helpful educational endeavours in the world. ",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Size: 1.90G, MP4 Videos: 145, Date: 2018",
-  "edit_status": "repo",
-  "commit_sha": "a2e52bf888069ddca6afa66d2738d24f031b9327",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - clone"
 }
