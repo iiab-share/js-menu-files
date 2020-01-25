@@ -5,13 +5,12 @@
   "zim_name": "wikipedia_en_for-schools",
   "start_url": "",
   "title": "Wikipedia for Schools",
-  "logo_url": "en-wikipedia.png",
+  "logo_url": "en-wikipedia_for_schools-static.jpg",
   "description": "Selection of 6.000 Wikipedia articles for school children",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "repo",
-  "commit_sha": "cede530666565471d7886c42e96332881f94a381",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
