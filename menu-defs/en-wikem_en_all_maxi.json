@@ -4,14 +4,13 @@
   "intended_use": "zim",
   "zim_name": "wikem_en_all_maxi",
   "start_url": "",
-  "title": "WikEM",
+  "title": "WikEM: Global Emergency Medicine Wiki",
   "logo_url": "WikEM-Logo-m.png",
-  "description": "kiwix.wikem_en_all",
+  "description": "WikEM, The Global Emergency Medicine Wiki, is the world's largest emergency medicine open-access reference resource.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "repo",
-  "commit_sha": "07c73b2d8625a6ee2506a7e3fbad3c7db663134d",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
