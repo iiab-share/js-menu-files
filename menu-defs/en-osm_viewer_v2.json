@@ -1,0 +1,16 @@
+{
+  "name": "en-osm_viewer_v2",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "World Maps from OpenStreetMap",
+  "logo_url": "osm.jpg",
+  "description": "World Maps at various levels of zoom from OpenStreetMap",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
