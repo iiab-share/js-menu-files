@@ -2,13 +2,15 @@
   "name": "en-kolibri",
   "lang": "en",
   "intended_use": "kolibri",
+  "kolibri_channel_id": "",
   "start_url": "/",
   "title": "Kolibri",
   "logo_url": "kolibri.png",
   "description": "Kolibri (might replace KA Lite in future!) provides offline access to a wide range of quality, openly licensed educational content.",
+  "extra_description": "",
   "extra_html": "en-kolibri.html",
-  "edit_status": "repo",
-  "commit_sha": "f1fa1b1e629e128ea9307002d7c9ecfd6e7f47d8",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
