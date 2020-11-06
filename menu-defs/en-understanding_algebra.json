@@ -3,11 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-understanding_algebra",
+  "start_url": "",
   "title": "Understanding Algebra",
   "logo_url": "en-understanding_algebra.png",
   "description": "",
-  "edit_status": "repo",
-  "commit_sha": "97c0c667b4fac803e34c162bef0ee1a0881ef86c",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
