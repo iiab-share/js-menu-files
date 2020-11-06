@@ -4,13 +4,13 @@
   "intended_use": "zim",
   "zim_name": "teded_en_all",
   "start_url": "",
-  "title": "Uploads from TED Ed",
-  "logo_url": "",
-  "description": "Uploads from TED Ed videos",
+  "title": "TED-Ed: Lessons Worth Sharing",
+  "logo_url": "TED319335.gif",
+  "description": "Short, award-winning animated videos about ideas that spark the curiosity of students and teachers everywhere.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "generated",
-  "change_date": "2019-09-27"
+  "change_ref": "admin_console - edit"
 }
