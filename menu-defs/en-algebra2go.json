@@ -7,9 +7,10 @@
   "title": "Algebra2go",
   "logo_url": "en-algebra2go.jpg",
   "description": "Pre-algebra lessons with videos and notes from Saddleback College.",
+  "extra_description": "",
   "extra_html": "",
-  "edit_status": "repo",
-  "commit_sha": "0356756948d9cad54187885a41bd31c4ad94a2c6",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
