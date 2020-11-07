@@ -1,0 +1,16 @@
+{
+  "name": "en-osm_viewer_v2_jamaica",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "World Maps & Satellite Photos",
+  "logo_url": "osm.jpg",
+  "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<ul><li>Worldwide maps with satellite photos: 11 levels of zoom with 305-metre resolution<li>Caribbean and Central America maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural features<li>Satellite photos of Jamaica: 19-metre resolution</ul>",
+  "extra_description": "Thank you to the OpenStreetMap community, which makes it possible for anybody to improve these maps for the benefit of all.",
+  "extra_html": "",
+  "footnote": "Date: 2019-09-30",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
