@@ -1,0 +1,16 @@
+{
+  "name": "en-ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2018",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2018",
+  "start_url": "",
+  "title": "Top 10 TED Talks of 2018",
+  "logo_url": "TED319335.gif",
+  "description": "The most notable talks of 2018, chosen by TED Curator Chris Anderson.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
