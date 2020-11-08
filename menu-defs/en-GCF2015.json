@@ -3,12 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-GCF2015",
+  "start_url": "",
   "title": "GCF2015",
   "logo_url": "en-GCF2015.png",
   "description": "Illustrated articles and videos focusing on technology, job training, reading, and math skills.",
+  "extra_description": "",
   "extra_html": "en-GCF2015.html",
-  "edit_status": "repo",
-  "commit_sha": "6d30592af42b4c73f61ef77e1ef10c3bd7a4b503",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "Size: 9.0G, Articles: 1521, Videos: 637, PDFs: 144, Date: March 2018",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
