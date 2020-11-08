@@ -1,0 +1,16 @@
+{
+  "name": "en-scienceinthebath_en_climate-nature-environment",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "scienceinthebath_en_climate-nature-environment",
+  "start_url": "",
+  "title": "Climate, Nature & Environment",
+  "logo_url": "content.jpg",
+  "description": "Environmental Science videos to inspire curiosity about local ecology and global risks.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
