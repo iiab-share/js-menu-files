@@ -1,0 +1,16 @@
+{
+  "name": "en-scale-of-universe-2",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-scale-of-universe-2",
+  "start_url": "",
+  "title": "Scale of the Universe",
+  "logo_url": "en-scale-of-universe.jpg",
+  "description": "Interactive exploration of size - from quarks to galaxy clusters.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 19M, Orders of magnitude: 62, 2020-11-10",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
