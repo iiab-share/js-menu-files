@@ -1,0 +1,16 @@
+{
+  "name": "en-statpearls_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "statpearls_en_all_maxi",
+  "start_url": "",
+  "title": "StatPearls Article Library",
+  "logo_url": "stat-pearls-logo.png",
+  "description": "Stat Pearls Article Library with more than 8000 articles on medical illnesses and conditions.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
