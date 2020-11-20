@@ -9,7 +9,7 @@
   "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Worldwide maps with satellite photos: 11 levels of zoom with 305-meter resolution<li>North America maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural geography<li>Satellite photos of SW Alaska: 19-meter resolution</ul>",
   "extra_description": "Thank you to the OpenStreetMap community, which makes it possible for anybody to improve these maps for the benefit of all.",
   "extra_html": "",
-  "footnote": "Size: 5.6G, Date: 2019-09-30",
+  "footnote": "Size: 24G, Date: 2019-09-30",
   "edit_status": "local_change",
   "commit_sha": null,
   "change_ref": "admin_console - edit"
