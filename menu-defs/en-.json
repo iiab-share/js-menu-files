@@ -1,0 +1,15 @@
+{
+  "name": "en-",
+  "lang": "en",
+  "intended_use": "external",
+  "start_url": "box:69",
+  "title": "Citadel BBS Server",
+  "logo_url": "Citadel Logo.PNG",
+  "description": "This is an old school BBS, Forum and Email Server, with a calendar feature.  ",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
