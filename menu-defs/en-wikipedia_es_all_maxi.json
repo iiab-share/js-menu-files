@@ -7,7 +7,7 @@
   "title": "Wikipedia in Spanish",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Wikipedia is the world's largest encyclopedia, created, moderated, and edited by users for users.",
-  "extra_description": "The Spanish-language edition has more than 1.6 million articles, with more than 1.8 million illustrations and photographs.",
+  "extra_description": "The Spanish-language edition has more than 1.6 Million articles, with more than 1.8 Million illustrations and photographs.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
   "edit_status": "local_change",
