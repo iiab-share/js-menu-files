@@ -1,0 +1,16 @@
+{
+  "name": "en-computer_videos",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-computer_videos",
+  "start_url": "index.html",
+  "title": "Videos for using Internet In A Box",
+  "logo_url": "video.png",
+  "description": "Introductory videos, with closed captions in English, Spanish, and Frenxh. Special focus ins on use of the Raspberry Pi. Also included are technical descriptions of how the internet works, and how to troubleshoot computer networking problems.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "12 Videos, 200MB",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
