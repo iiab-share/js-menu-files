@@ -2,14 +2,14 @@
   "name": "en-wordpress",
   "lang": "en",
   "intended_use": "webroot",
-  "moddir": "",
   "start_url": "wordpress",
-  "title": "WordPress",
+  "title": "Words Pressing To Read",
   "logo_url": "wordpress-icon3.png",
-  "description": "Write a personal article (or post photographs) to share with your community!",
+  "description": "Write a personal article (or post photographs) to share with your community!<BR><BR>WHERE ALL THE FUN BEGINS",
+  "extra_description": "",
   "extra_html": "en-wordpress.html",
-  "edit_status": "repo",
-  "commit_sha": "e61060793f6670f10c88a416775ef1f60758ae4a",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
