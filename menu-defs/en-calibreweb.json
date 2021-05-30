@@ -2,14 +2,14 @@
   "name": "en-calibreweb",
   "lang": "en",
   "intended_use": "webroot",
-  "moddir": "",
   "start_url": "books",
-  "title": "Calibre-Web",
+  "title": "Reference Library Books",
   "logo_url": "calibreweb.png",
   "description": "Electronic Books for your local community.",
+  "extra_description": "",
   "extra_html": "en-calibreweb.html",
-  "edit_status": "repo",
-  "commit_sha": "0db19be3bcc74550f2162bbd5d7f1a2bbcf79615",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
