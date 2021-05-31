@@ -1,0 +1,15 @@
+{
+  "name": "fr-usb",
+  "lang": "fr",
+  "intended_use": "webroot",
+  "start_url": "usb",
+  "title": "Insérez une clé/lecteur USB pour publier des fichiers ici",
+  "logo_url": "content.jpg",
+  "description": "Enseignants/bibliothécaires : vos documents de cours (fichiers PDF, photos, avis publics, etc.) apparaîtront instantanément <a href=/usb>Juste ici</a> après avoir inséré une clé/lecteur USB dans Internet-in-a- Boîte.",
+  "extra_description": "Enfin : n'hésitez pas à retirer physiquement votre clé USB à tout moment, après que les utilisateurs Wi-Fi aient téléchargé de vous ce dont ils avaient besoin.",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
