@@ -1,0 +1,16 @@
+{
+  "name": "es-osm_viewer_v2",
+  "lang": "es",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "Mapas del mundo y fotos satelitales",
+  "logo_url": "osm.jpg",
+  "description": "Mapas del mundo, mapas locales y fotos satelitales en varios niveles de zoom. Gracias a OpenStreetMap.",
+  "extra_description": "Busque ciudades / pueblos con más de 1000 personas. Hay alrededor de 127.654 en todo el mundo.",
+  "extra_html": "",
+  "footnote": "Fecha: 2019-09-30",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
