@@ -1,0 +1,16 @@
+{
+  "name": "en-crashcourse_en_top",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "crashcourse_en_top",
+  "start_url": "",
+  "title": "Crash Course Top",
+  "logo_url": "Crash_Course_logo.png",
+  "description": "Entertaining science and humanities videos, professionally-produced in association with PBS.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
