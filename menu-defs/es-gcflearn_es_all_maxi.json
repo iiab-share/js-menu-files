@@ -1,0 +1,16 @@
+{
+  "name": "es-gcflearn_es_all_maxi",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "gcflearn_es_all_maxi",
+  "start_url": "",
+  "title": "GCF2021 en Español",
+  "logo_url": "content.jpg",
+  "description": "GCFAprendeLibre es un espacio virtual creado para ti, para ayudarte a crecer y alcanzar tus sueños.<BR>La misión de GCFAprendeLibre es crear y proveer educación y oportunidades para enriquecer a quienes desean mejorar su calidad de vida.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamañ: ##SIZE##, Artículos Ilustrados: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Fecha: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
