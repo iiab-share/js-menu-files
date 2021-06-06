@@ -1,0 +1,16 @@
+{
+  "name": "fr-wikimooc_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikimooc_fr_all",
+  "start_url": "",
+  "title": "WikiMOOC",
+  "logo_url": "content.jpg",
+  "description": "Le WikiMOOC est un MOOC (des cours en ligne gratuits et ouverts à tous) pour apprendre à contribuer à Wikipédia, publié sur la plateforme FUN.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
