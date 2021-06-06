@@ -1,0 +1,16 @@
+{
+  "name": "en-GCF2020",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-GCF2020",
+  "start_url": "",
+  "title": "Digital & Career Skills",
+  "logo_url": "en-GCF2015.png",
+  "description": "Illustrated articles and videos focusing on technology, job training, reading, and math skills.",
+  "extra_description": "",
+  "extra_html": "en-GCF2020.html",
+  "footnote": "Size: 15G, Articles: 2246, Videos: 1111, Date: December 2020",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
