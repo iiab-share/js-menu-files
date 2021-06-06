@@ -6,7 +6,7 @@
   "start_url": "",
   "title": "Medical Encyclopedia in English",
   "logo_url": "en-wikipedia.png",
-  "description": "50,000+ healthcare articles from Wikipedia.",
+  "description": "50,000+ healthcare articles from Wikipedia and the Wiki Project Med Foundation.",
   "extra_description": "A complete collection of all health care, anatomy, and medication related topics from Wikipedia in an offline format.<BR>Like Wikipedia all content is open access, meaning that it is free to download, reuse, share, and build upon.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
