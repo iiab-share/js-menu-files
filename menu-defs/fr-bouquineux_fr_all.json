@@ -1,0 +1,16 @@
+{
+  "name": "fr-bouquineux_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "bouquineux_fr_all",
+  "start_url": "",
+  "title": "Bouquineux",
+  "logo_url": "content.jpg",
+  "description": "2500 livres numériques gratuits et libres de droits.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
