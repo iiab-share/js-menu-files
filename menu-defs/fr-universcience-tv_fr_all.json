@@ -1,0 +1,16 @@
+{
+  "name": "fr-universcience-tv_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "universcience-tv_fr_all",
+  "start_url": "",
+  "title": "Universcience.tv",
+  "logo_url": "content.jpg",
+  "description": "Plusieurs milliers de vidéos d’actualité scientifique et des enquêtes sur les grands sujets contemporains.",
+  "extra_description": "Par la Cité des sciences et de l’industrie et le Palais de la découverte.",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
