@@ -1,0 +1,16 @@
+{
+  "name": "fr-wikiquote_fr_all_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikiquote_fr_all_maxi",
+  "start_url": "",
+  "title": "Wikiquote",
+  "logo_url": "Ncwikiquote2.png",
+  "description": "Une page de Wikiquote, le recueil des citations libres.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
