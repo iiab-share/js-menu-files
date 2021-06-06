@@ -1,0 +1,16 @@
+{
+  "name": "fr-wikistage_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikistage_fr_all",
+  "start_url": "",
+  "title": "WikiStage",
+  "logo_url": "content.jpg",
+  "description": "Les vidéos WikiStage sont des courtes présentations académiques intéressantes similaires aux Conférences TED.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
