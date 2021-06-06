@@ -1,0 +1,16 @@
+{
+  "name": "fr-vikidia_fr_all_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "vikidia_fr_all_maxi",
+  "start_url": "",
+  "title": "Vikidia",
+  "logo_url": "content.jpg",
+  "description": "L’encyclopédie des 8-13 ans.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
