@@ -1,0 +1,16 @@
+{
+  "name": "fr-la_chaine_de_maths_et_tiques_fr_all",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "la_chaine_de_maths_et_tiques_fr_all",
+  "start_url": "",
+  "title": "M@ths-et-tiques",
+  "logo_url": "content.jpg",
+  "description": "Beaux cours de maths en vidéo pour t'aider à mieux comprendre.",
+  "extra_description": "Yvan Monka est un enseignant français de mathématiques de l'académie de Strasbourg.",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
