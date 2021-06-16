@@ -9,7 +9,7 @@
   "description": "Magazine télévisuel de vulgarisation scientifique destiné aux enfants.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
   "edit_status": "local_change",
   "commit_sha": null,
   "change_ref": "admin_console - edit"
