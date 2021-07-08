@@ -1,0 +1,16 @@
+{
+  "name": "pt-gcf_learn_2021",
+  "lang": "pt",
+  "intended_use": "html",
+  "moddir": "pt-gcf_learn_2021",
+  "start_url": "edu.gcfglobal.org/pt/topics/",
+  "title": "GCF AprendeLivre Habilidades digitais e profissionais",
+  "logo_url": "es-GCF2015.jpg",
+  "description": "Artigos ilustrados e vídeos de aprendizagem que enfocam tecnologia, treinamento profissional, matemática e vida.",
+  "extra_description": "Desenvolva suas habilidades, projete seus sonhos e construa seu futuro. A missão do GCFAprendeLibre é criar e proporcionar oportunidades de educação e enriquecimento para aqueles que desejam melhorar a sua qualidade de vida.",
+  "extra_html": "",
+  "footnote": "Tamaño: 3.6G, Lecciones: 1000+, Data: abril 2021",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
