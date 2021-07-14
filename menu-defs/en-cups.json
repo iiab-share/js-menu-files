@@ -6,7 +6,7 @@
   "title": "CUPS Printing",
   "logo_url": "CUPS.svg",
   "description": "CUPS (the &quot;Common UNIX Printing System&quot;) allows your Internet-in-a-Box (IIAB) to act as a print server, if you want students and teachers to be able to print.",
-  "extra_description": "Installation / Configuration Notes: <a href=https://github.com/iiab/iiab/blob/master/roles/cups/README.md#cups-printing-readme>README</a>",
+  "extra_description": "Click &quot;Help&quot; at the top of <a href=../print>CUPS Printing</a> to learn more.  If you're online, please see IIAB's <a href=https://github.com/iiab/iiab/blob/master/roles/cups/README.md#cups-printing-readme target=_blank>README</a>.</i>",
   "extra_html": "",
   "footnote": "",
   "edit_status": "local_change",
