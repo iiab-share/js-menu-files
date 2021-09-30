@@ -3,7 +3,7 @@
   "lang": "en",
   "intended_use": "webroot",
   "start_url": "usb",
-  "title": "Insert a USB Stick/Drive to Publish Files Here",
+  "title": "Read USB Stick/Drive if inserted",
   "logo_url": "content.jpg",
   "description": "Teachers/Librarians: your class handouts (PDF files, photos, public notices, etc) will instantly appear <a href=/usb>Right Here</a> after you insert a USB stick/drive into the Internet-in-a-Box.",
   "extra_description": "Finally: don't hesitate to physically remove your USB stick at any time, after Wi-Fi users have downloaded what they need from you.",
