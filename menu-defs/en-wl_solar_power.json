@@ -1,0 +1,16 @@
+{
+  "name": "en-wl_solar_power",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-wl_solar_power",
+  "start_url": "",
+  "title": "Solar Power Education ",
+  "logo_url": "solar_power_logo.png",
+  "description": "Solar Power Videos and Documents for building Solar Systems.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Copied from www.wlearn.ch and added as module on IIAB Shanti Bhardwa 5 Sep  2021",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
