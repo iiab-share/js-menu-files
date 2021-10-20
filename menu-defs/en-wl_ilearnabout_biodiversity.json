@@ -1,0 +1,16 @@
+{
+  "name": "en-wl_ilearnabout_biodiversity",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-wl_ilearnabout_biodiversity",
+  "start_url": "Biodiversity module 1/story.html",
+  "title": "iLearnabout: Powering Conservation Education",
+  "logo_url": "ILALogo.png",
+  "description": "iLearnabout is an exciting environmental and conservation education initiative developed by the iAfrica Foundation to provide freely available digital resources in Sub-Saharan Africa..",
+  "extra_description": "",
+  "extra_html": "en-wl_ilearnabout_biodiversity.html",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
