@@ -1,0 +1,16 @@
+{
+  "name": "en-wl_w3schools",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-wl_w3schools",
+  "start_url": "",
+  "title": "w3schools",
+  "logo_url": "w3schoolslogo.png",
+  "description": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Copied from www.wlearn.ch and added as module on IIAB Shanti Bhardwa 10 Oct 2021",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
