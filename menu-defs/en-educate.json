@@ -1,0 +1,16 @@
+{
+  "name": "en-educate",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-educate",
+  "start_url": "",
+  "title": "Educate!",
+  "logo_url": "en-educate_logo.png",
+  "description": "Developing Young Leaders & Entrepreneurs in Africa",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 43.9M, Files: 29, Age: children,young adult",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
