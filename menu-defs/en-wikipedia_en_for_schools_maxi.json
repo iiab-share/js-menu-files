@@ -7,7 +7,7 @@
   "title": "Wikipedia for Schools",
   "logo_url": "en-wikipedia_for_schools-static.jpg",
   "description": "A selection of about 9000 Wikipedia articles for schoolchildren, from 2021.",
-  "extra_description": "Wikipedia articles chosen for primary and secondary classrooms &mdash; to promote information literacy, digital, and research skills &mdash; in remote, rural and offline communities globally.  Curated by SolarSPELL, an educational initiative at Arizona State University.",
+  "extra_description": "Wikipedia articles chosen for primary and secondary school classrooms &mdash; to promote information literacy, digital, and research skills &mdash; in remote, rural and offline communities globally.  Curated by SolarSPELL, an educational initiative at Arizona State University.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
   "edit_status": "local_change",
