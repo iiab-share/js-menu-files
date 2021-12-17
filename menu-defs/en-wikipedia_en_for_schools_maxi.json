@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_for_schools_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_for_schools_maxi",
+  "start_url": "",
+  "title": "Wikipedia for Schools",
+  "logo_url": "en-wikipedia_for_schools-static.jpg",
+  "description": "A selection of about 9000 Wikipedia articles for schoolchildren, from 2021.",
+  "extra_description": "Wikipedia articles chosen for primary and secondary classrooms &mdash; to promote information literacy, digital, and research skills &mdash; in remote, rural and offline communities globally.  Curated by SolarSPELL, an educational initiative at Arizona State University.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
