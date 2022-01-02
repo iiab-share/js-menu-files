@@ -9,9 +9,8 @@
   "description": "The first producer of free ebooks.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "",
-  "edit_status": "repo",
-  "commit_sha": "f4c81d57b38ebe44d88a8c9601292e9960020d43",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
