@@ -1,0 +1,12 @@
+{
+  "name": "en-code-monster",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-code-monster",
+  "title": "Code Monster",
+  "logo_url": "codemonster-logo.png",
+  "description": "Code Monster is an interactive programming tutorial for kids that focuses on action.  Your JavaScript code changes immediately yield visible results.",
+  "footnote": "Size: 800K; Date: February 2022",
+  "commit_sha": null,
+  "change_date": "2022-02-11"
+}
