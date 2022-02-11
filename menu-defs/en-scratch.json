@@ -3,11 +3,14 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "en-scratch",
+  "start_url": "",
   "title": "MIT Scratch",
   "logo_url": "en-scratch.jpg",
-  "description": "",
-  "edit_status": "repo",
-  "commit_sha": "7dfeed21300ae8f99b08045ac3b685de185bb223",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "description": "Scratch installers for common OS's.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: 254M, September 2013",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
