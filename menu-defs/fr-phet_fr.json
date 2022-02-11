@@ -1,0 +1,16 @@
+{
+  "name": "fr-phet_fr",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "phet_fr",
+  "start_url": "",
+  "title": "Simulations interactives PhET",
+  "logo_url": "phet-logo-48x48.png",
+  "description": "Des expériences scientifiques et mathématiques interactives, pour vous aider à visualiser les concepts fondamentaux.",
+  "extra_description": "PhET est un projet de l'université du Colorado Boulder, fondé en 2002 par le lauréat du prix Nobel Carl Wieman, qui vise à améliorer la manière dont les sciences sont enseignées et apprises dans le monde entier grâce à des simulations interactives gratuites.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
