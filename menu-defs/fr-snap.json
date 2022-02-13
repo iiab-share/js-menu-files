@@ -8,7 +8,7 @@
   "description": "Snap! est un langage de programmation largement invitant pour les enfants et les adultes, qui constitue également une plate-forme pour l'étude sérieuse de l'informatique.",
   "footnote": "Version 7.1.4; Taille: 164M; Date: février 2022",
   "commit_sha": null,
-  "previous_commit_sha": "0c606772ec80eb99be29830d2567c992abaea560",
+  "previous_commit_sha": "07755259632604efe7655e63f30f05b8ed0ab8ec",
   "change_ref": "copy from repo",
-  "change_date": "2022-02-12"
+  "change_date": "2022-02-13"
 }
