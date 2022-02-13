@@ -5,11 +5,12 @@
   "start_url": "sugarizer",
   "title": "Sugarizer",
   "logo_url": "sugarizer.png",
-  "description": "A taste of Sugar on any device, used every day by children around the world on the One Laptop Per Child project.",
+  "description": "Program or be programmed!  Explore creativity puzzles originally from MIT's One Laptop Per Child global project.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "",
-  "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "previous_commit_sha": "9d9f2e3e958f6db2758c50ef702ac65e429c7629",
+  "change_ref": "copy from repo",
+  "change_date": "2020-11-07"
 }
