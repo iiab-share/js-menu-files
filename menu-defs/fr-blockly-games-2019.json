@@ -7,7 +7,9 @@
   "title": "Blockly Games",
   "logo_url": "fr-blockly-games.png",
   "description": "Jeux pour les programmeurs de demain.",
-  "footnote": "Taille: 7.3M; Date: October 2019",
+  "footnote": "Taille: 7.3M; Date: octobre 2019",
   "commit_sha": null,
+  "previous_commit_sha": "015775656a0147cb24e36a059817329e8cc8dbca",
+  "change_ref": "copy from repo",
   "change_date": "2022-02-13"
 }
