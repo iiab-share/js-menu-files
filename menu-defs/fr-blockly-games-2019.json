@@ -5,11 +5,11 @@
   "moddir": "fr-blockly-games-2019",
   "start_url": "blockly-games/fr/index.html",
   "title": "Blockly Games",
-  "logo_url": "fr-blockly-games.png",
+  "logo_url": "en-blockly-games.png",
   "description": "Jeux pour les programmeurs de demain.",
   "footnote": "Taille: 7.3M; Date: octobre 2019",
   "commit_sha": null,
-  "previous_commit_sha": "015775656a0147cb24e36a059817329e8cc8dbca",
+  "previous_commit_sha": "21b684771c50284293009c2fc51c1493d5e5f3d2",
   "change_ref": "copy from repo",
   "change_date": "2022-02-13"
 }
