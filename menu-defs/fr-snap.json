@@ -3,11 +3,12 @@
   "lang": "fr",
   "intended_use": "html",
   "moddir": "en-snap",
-  "title": "Snap ! Construisez vos propres blocs",
+  "title": "Snap! Construisez vos propres blocs",
   "logo_url": "snap-logo.png",
-  "description": "Snap ! est un langage de programmation largement invitant pour les enfants et les adultes, qui constitue également une plate-forme pour l'étude sérieuse de l'informatique.",
-  "footnote": "Version 7.1.4; Size: 164M; Date: February 2022",
+  "description": "Snap! est un langage de programmation largement invitant pour les enfants et les adultes, qui constitue également une plate-forme pour l'étude sérieuse de l'informatique.",
+  "footnote": "Version 7.1.4; Taille: 164M; Date: février 2022",
   "commit_sha": null,
-  "previous_commit_sha": null,
-  "change_date": "2022-02-11"
+  "previous_commit_sha": "0c606772ec80eb99be29830d2567c992abaea560",
+  "change_ref": "copy from repo",
+  "change_date": "2022-02-12"
 }
