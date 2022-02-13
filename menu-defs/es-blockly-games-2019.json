@@ -1,0 +1,13 @@
+{
+  "name": "es-blockly-games-2019",
+  "lang": "es",
+  "intended_use": "html",
+  "moddir": "es-blockly-games-2019",
+  "start_url": "blockly-games/es/index.html",
+  "title": "Blockly Games",
+  "logo_url": "es-blockly_games.png",
+  "description": "Juegos para los programadores del futuro.",
+  "footnote": "Tamaño: 7.3M, Fecha: octubre 2019",
+  "commit_sha": null,
+  "change_date": "2022-02-13"
+}
