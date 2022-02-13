@@ -1,0 +1,11 @@
+{
+  "name": "fr-sugarizer",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "sugarizer",
+  "title": "Sugarizer",
+  "logo_url": "sugarizer.png",
+  "description": "Programmez ou soyez programmé !  Explorez les puzzles de créativité issus du projet mondial One Laptop Per Child du MIT.",
+  "commit_sha": null,
+  "change_date": "2022-02-13"
+}
