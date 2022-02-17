@@ -6,11 +6,10 @@
   "start_url": "",
   "title": "Scale of the Universe",
   "logo_url": "en-scale-of-universe.jpg",
-  "description": "Interactive exploration of size — from quarks to galaxy clusters.",
-  "extra_description": "On a mobile device, use your browser settings (e.g. touch <b>&vellip;</b> in the top-right) to check the box for &quot;Desktop site&quot;.",
+  "description": "Interactive exploration of size — from quarks to galaxy clusters.<p>On a mobile device, use your browser settings (e.g. touch <b>&vellip;</b> in the top-right) to check the box for &quot;Desktop site&quot;.",
+  "extra_description": "",
   "extra_html": "",
   "footnote": "Size: 19M, Orders of Magnitude: 62, Date: 2020-11-10",
-  "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "change_date": "2022-02-17"
 }
