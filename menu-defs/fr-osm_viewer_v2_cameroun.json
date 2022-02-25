@@ -1,0 +1,15 @@
+{
+  "name": "fr-osm_viewer_v2_cameroun",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "Cartes du monde & photos satellites",
+  "logo_url": "osm.jpg",
+  "description": "Recherche de villes/villages de plus de 1000 habitants.  Il y en a environ 127 654 dans le monde :<p><ul><li>Cartes du monde avec photos satellite : 11 niveaux de zoom avec une résolution de 305 mètres<li>Cartes de l'Afrique, de la Méditerranée et du Moyen-Orient : 15 niveaux de zoom + 4 niveaux d'overzoom pour mettre en évidence détails de construction et géographie naturelle<li>Photos satellite de Cameroun : résolution de 19 mètres</ul>",
+  "extra_description": "Merci à la communauté OpenStreetMap, permettant à chacun d'améliorer ces cartes pour le bénéfice de tous.",
+  "extra_html": "",
+  "footnote": "Size: 16G, Date: 2022-02-24",
+  "commit_sha": null,
+  "change_date": "2022-02-24"
+}
