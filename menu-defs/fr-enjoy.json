@@ -1,0 +1,11 @@
+{
+  "name": "fr-enjoy",
+  "lang": "fr",
+  "intended_use": "info",
+  "moddir": "usb",
+  "title": "Explorez !",
+  "logo_url": "content.jpg",
+  "description": "Explorez et construisez votre bibliothèque ! volunteer@unleashkids.org",
+  "commit_sha": null,
+  "change_date": "2022-02-24"
+}
