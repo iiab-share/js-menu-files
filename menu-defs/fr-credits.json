@@ -1,0 +1,12 @@
+{
+  "name": "fr-credits",
+  "lang": "fr",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "common/html/credits.html",
+  "title": "Crédits",
+  "logo_url": "credits.png",
+  "description": "Merci à tous ceux qui ont contribué et organisé le contenu utilisé par Internet-in-a-Box.",
+  "commit_sha": null,
+  "change_date": "2022-02-24"
+}
