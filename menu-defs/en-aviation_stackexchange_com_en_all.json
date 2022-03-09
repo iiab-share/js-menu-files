@@ -1,0 +1,16 @@
+{
+  "name": "en-aviation_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "aviation.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Aviation Stack Exchange",
+  "logo_url": "4.png",
+  "description": "Q&A for aircraft pilots, mechanics, and enthusiasts",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
