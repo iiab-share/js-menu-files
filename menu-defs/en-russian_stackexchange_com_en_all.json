@@ -1,0 +1,16 @@
+{
+  "name": "en-russian_stackexchange_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "russian.stackexchange.com_en_all",
+  "start_url": "",
+  "title": "Russian Language Stack Exchange",
+  "logo_url": "4.png",
+  "description": "Q&A for students, teachers, and linguists wanting to discuss the finer points of the Russian language",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
