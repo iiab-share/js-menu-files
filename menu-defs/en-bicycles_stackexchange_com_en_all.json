@@ -5,12 +5,15 @@
   "zim_name": "bicycles.stackexchange.com_en_all",
   "start_url": "",
   "title": "Bicycles Stack Exchange",
-  "logo_url": "4.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for people who build and repair bicycles, people who train cycling, or commute on bicycles",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "8026312da6afea833f25b9e4f036bc173bf3b473",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }

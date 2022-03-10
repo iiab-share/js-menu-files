@@ -5,12 +5,15 @@
   "zim_name": "health.stackexchange.com_en_all",
   "start_url": "",
   "title": "Medical Sciences Stack Exchange",
-  "logo_url": "4.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for professionals in medical and allied health fields, students of those professions, related academics, and others with a sound understanding of medicine and healthcare-related sciences",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "9bab61adb78cf2eee5b33b87803e44e40a6be83a",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }

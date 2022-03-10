@@ -5,12 +5,15 @@
   "zim_name": "arduino.stackexchange.com_en_all",
   "start_url": "",
   "title": "Arduino Stack Exchange",
-  "logo_url": "4.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for developers of open-source hardware and software that is compatible with Arduino",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "7f0d9ac6e60d622def196207cf7916c47c1a674d",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }
