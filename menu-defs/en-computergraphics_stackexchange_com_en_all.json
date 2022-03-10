@@ -5,12 +5,15 @@
   "zim_name": "computergraphics.stackexchange.com_en_all",
   "start_url": "",
   "title": "Computer Graphics Stack Exchange",
-  "logo_url": "4.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for computer graphics researchers and programmers",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "90e4c6f4236c98c00bf51d80ef61aef2f171317c",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }

@@ -5,12 +5,15 @@
   "zim_name": "astronomy.stackexchange.com_en_all",
   "start_url": "",
   "title": "Astronomy Stack Exchange",
-  "logo_url": "4.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for astronomers and astrophysicists",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "5bb6d5930ddcb277774024e34bb74fb54bd7d40f",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }

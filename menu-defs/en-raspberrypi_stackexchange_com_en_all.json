@@ -5,12 +5,15 @@
   "zim_name": "raspberrypi.stackexchange.com_en_all",
   "start_url": "",
   "title": "Raspberry Pi Stack Exchange",
-  "logo_url": "en-rpi_guide.png",
+  "logo_url": "stackexchange.png",
   "description": "Q&A for users and developers of hardware and software for Raspberry Pi.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "edit_status": "repo",
+  "commit_sha": "5eb86cd184238c7820a83890ac5339c29fe29c6b",
+  "change_ref": "copy from repo",
+  "change_date": "2021-11-11",
+  "upload_flag": false,
+  "download_flag": true
 }
