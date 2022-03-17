@@ -6,7 +6,7 @@
   "title": "Snap! Build Your Own Blocks",
   "logo_url": "snap-logo.png",
   "description": "Snap! is a broadly inviting programming language for kids and adults that's also a platform for serious study of computer science.",
-  "footnote": "Version 7.1.4; Size: 164M; Date: February 2022",
+  "footnote": "Version 7.3.1; Size: 165M; Date: March 2022",
   "commit_sha": null,
-  "change_date": "2022-02-11"
+  "change_date": "2022-03-17"
 }
