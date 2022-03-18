@@ -1,0 +1,15 @@
+{
+  "name": "en-wikistage_multi_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikistage_multi_all",
+  "start_url": "",
+  "title": "WikiStage",
+  "logo_url": "wikistage.png",
+  "description": "WikiTalks (similar to TED Talk videos) seek to inspire positive change in the world, with Ideas for Change.",
+  "extra_description": "Voices contributing to a world where peace, solidarity, democracy, human rights, and the protection of our planet become a reality.",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_date": "2022-03-17"
+}
