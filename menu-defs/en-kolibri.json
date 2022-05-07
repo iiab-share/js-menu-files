@@ -7,9 +7,8 @@
   "title": "Kolibri",
   "logo_url": "kolibri.png",
   "description": "Kolibri (might replace KA Lite in future!) provides offline access to a wide range of quality, openly licensed educational content.",
-  "extra_description": "Pick one of 29+ languages. Supports <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> so online teachers can quickly remix and redistribute innovative lesson plans.",
+  "extra_description": "Pick one of 31+ languages. Supports <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> so online teachers can quickly remix and redistribute innovative lesson plans.",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null,
-  "change_date": "2022-02-16"
+  "commit_sha": null
 }
