@@ -2,7 +2,7 @@
   "name": "en-wikistage_multi_all",
   "lang": "en",
   "intended_use": "zim",
-  "zim_name": "wikistage_multi_all",
+  "zim_name": "wikistage_mul_all",
   "start_url": "",
   "title": "WikiStage",
   "logo_url": "wikistage.png",
@@ -10,6 +10,5 @@
   "extra_description": "Voices contributing to a world where peace, solidarity, democracy, human rights, and the protection of our planet become a reality.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null,
-  "change_date": "2022-03-17"
+  "commit_sha": null
 }
