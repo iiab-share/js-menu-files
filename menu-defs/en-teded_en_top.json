@@ -1,0 +1,15 @@
+{
+  "name": "en-teded_en_top",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "teded_en_top",
+  "start_url": "",
+  "title": "TED-Ed: Lessons Worth Sharing",
+  "logo_url": "TED319335.gif",
+  "description": "Short, award-winning animated videos about ideas that spark the curiosity of students and teachers everywhere.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null,
+  "change_date": "2022-08-20"
+}
