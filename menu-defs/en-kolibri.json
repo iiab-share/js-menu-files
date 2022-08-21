@@ -6,12 +6,11 @@
   "start_url": "/",
   "title": "Kolibri",
   "logo_url": "kolibri.png",
-  "description": "Kolibri is a new way to access Khan Academy videos and quizzes.",
+  "description": "Kolibri is a new way to access Khan Academy videos and quizzes — and any other Kolibri Channel.",
   "extra_description": "Pick one of 31+ languages. Supports <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> so online teachers can quickly remix and redistribute innovative lesson plans.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null,
-  "previous_commit_sha": "db0caf07f2f754f993862ac2a123328d1827867a",
-  "change_ref": "copy from repo",
-  "change_date": "2022-08-17"
+  "previous_commit_sha": "34189db83793c5fa0529901cb165015943bfbbec",
+  "change_date": "2022-08-21"
 }
