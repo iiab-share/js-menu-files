@@ -1,0 +1,17 @@
+{
+  "name": "fr-wordpress",
+  "lang": "fr",
+  "intended_use": "webroot",
+  "start_url": "wordpress",
+  "title": "WordPress",
+  "logo_url": "wordpress-icon3.png",
+  "description": "Rédigez un article personnel (ou publiez des photos) <a href=/wordpress/wp-login.php>à partager avec votre communauté !</a>",
+  "extra_description": "WordPress vous aide à bloguer (journal personnel) et à organiser du contenu Web comme des listes de diffusion et des forums traditionnels, des galeries de médias, avec divers plugins.",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "20e98344c425e0de07c4e248653a180be9de0c40",
+  "change_ref": "copy from repo",
+  "change_date": "2022-09-15"
+}
