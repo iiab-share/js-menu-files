@@ -1,18 +1,17 @@
 {
   "name": "en-osm_viewer_v2_senegal",
   "lang": "en",
-  "intended_use": "map",
+  "intended_use": "webroot",
   "map_name": "",
-  "start_url": "viewer",
+  "start_url": "osm-vector-maps/viewer/",
   "title": "World Maps & Satellite Photos",
   "logo_url": "osm.jpg",
   "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural geography<li>Satellite photos of Senegal and nearby countries: 14 levels of zoom with 19-metre resolution<li>Satellite photos of the rest of the world: 10 levels of zoom with 305-metre resolution</ul>",
   "extra_description": "Thank you to the OpenStreetMap community, making it possible for anybody to improve these maps for the benefit of all.",
   "extra_html": "",
   "footnote": "Size: 85G, Date: 2022-09-15",
-  "edit_status": "repo",
   "commit_sha": null,
-  "previous_commit_sha": "96a9ae51170b39f93108eea76d578a18dd94fe05",
+  "previous_commit_sha": "85fe09f77c42898675296caed01f2566bd9a8758",
   "change_ref": "copy from repo",
-  "change_date": "2022-09-15"
+  "change_date": "2022-09-16"
 }
