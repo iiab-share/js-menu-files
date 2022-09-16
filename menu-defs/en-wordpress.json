@@ -6,9 +6,11 @@
   "title": "WordPress",
   "logo_url": "wordpress-icon3.png",
   "description": "Write a personal article (or post photographs) to <a href=/wordpress/wp-login.php>share with your community!</a>",
-  "extra_description": "WordPress is most associated with blogging (personal journaling) but supports other types of web content including more traditional mailing lists and forums, media galleries, and diverse plugins.",
+  "extra_description": "WordPress helps you blog (personal journaling) and arrange web content like traditional mailing lists and forums, media galleries, with diverse plugins.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null,
-  "change_date": "2022-03-19"
+  "previous_commit_sha": "20e98344c425e0de07c4e248653a180be9de0c40",
+  "change_ref": "copy from repo",
+  "change_date": "2022-09-15"
 }
