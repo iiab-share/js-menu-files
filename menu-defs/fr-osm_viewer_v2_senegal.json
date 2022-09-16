@@ -1,0 +1,18 @@
+{
+  "name": "fr-osm_viewer_v2_senegal",
+  "lang": "fr",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "Cartes du monde & photos satellites",
+  "logo_url": "osm.jpg",
+  "description": "Recherche de villes/villages de plus de 1000 habitants.  Il y en a environ 127 654 dans le monde :<p><ul><li>Cartes : 15 niveaux de zoom + 4 niveaux d'overzoom pour mettre en évidence détails de construction et géographie naturelle<li>Photos satellite du Sénégal et des pays voisins : 14 niveaux de zoom avec une résolution de 19 mètres<li>Photos satellites du reste du monde : 10 niveaux de zoom avec une résolution de 305 mètres</ul>",
+  "extra_description": "Merci à la communauté OpenStreetMap, permettant à chacun d'améliorer ces cartes pour le bénéfice de tous.",
+  "extra_html": "",
+  "footnote": "Size: 85G, Date: 2022-09-15",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "b28a28eab7d22388567e8a56a7a33d0a580b5897",
+  "change_ref": "copy from repo",
+  "change_date": "2022-09-15"
+}
