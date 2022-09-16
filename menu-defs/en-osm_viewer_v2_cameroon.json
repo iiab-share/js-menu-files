@@ -6,10 +6,12 @@
   "start_url": "viewer",
   "title": "World Maps & Satellite Photos",
   "logo_url": "osm.jpg",
-  "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Worldwide maps with satellite photos: 11 levels of zoom with 305-metre resolution<li>Africa, Mediterranean & Mideast maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural geography<li>Satellite photos of Cameroon: 19-metre resolution</ul>",
+  "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Worldwide maps with satellite photos: 10 levels of zoom with 305-metre resolution<li>Africa, Mediterranean & Mideast maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural geography<li>Satellite photos of Cameroon: 19-metre resolution</ul>",
   "extra_description": "Thank you to the OpenStreetMap community, making it possible for anybody to improve these maps for the benefit of all.",
   "extra_html": "",
   "footnote": "Size: 18G, Date: 2022-03-18",
   "commit_sha": null,
-  "change_date": "2022-03-18"
+  "previous_commit_sha": "96a9ae51170b39f93108eea76d578a18dd94fe05",
+  "change_ref": "copy from repo",
+  "change_date": "2022-09-15"
 }
