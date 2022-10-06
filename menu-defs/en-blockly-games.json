@@ -7,9 +7,10 @@
   "title": "Blockly Games",
   "logo_url": "en-blockly-games.png",
   "description": "Games for tomorrow's programmers that teach basic coding skills.",
+  "extra_description": "",
+  "extra_html": "",
   "footnote": "Size: 4.4M; Date: August 2017",
-  "edit_status": "repo",
-  "commit_sha": "2c65e639014576e79809ec312ad59d0b6c10e7ad",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
