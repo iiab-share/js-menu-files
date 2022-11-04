@@ -1,0 +1,17 @@
+{
+  "name": "fr-japprendsalire_fr",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "japprendsalire_fr",
+  "start_url": "",
+  "title": "J'apprends à lire (Bayard)",
+  "logo_url": "content.jpg",
+  "description": "10 histoires avec leurs versions audio pour apprendre à lire.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2022-02-10"
+}
