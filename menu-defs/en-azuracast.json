@@ -1,0 +1,11 @@
+{
+  "name": "en-azuracast",
+  "lang": "en",
+  "intended_use": "azuracast",
+  "moddir": "",
+  "start_url": "",
+  "title": "AzuraCast",
+  "logo_url": "android-chrome-256x256.png",
+  "description": "AzuraCast is simple, self-hosted web radio.  Use it to schedule student newscasts, podcasts, music (e.g. MP3's and similar) and even do live-streaming.",
+  "commit_sha": null
+}
