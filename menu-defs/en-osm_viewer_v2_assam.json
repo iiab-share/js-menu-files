@@ -1,0 +1,14 @@
+{
+  "name": "en-osm_viewer_v2_assam",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "World Maps & Satellite Photos",
+  "logo_url": "osm.jpg",
+  "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Worldwide maps with satellite photos: 10 levels of zoom with 305-metre resolution<li>South Asia maps: 15 levels of zoom + 4 levels of overzoom (building details & natural geography)<li>Satellite photos of Northeast India, Bangladesh, Bhutan: 19-metre resolution</ul>",
+  "extra_description": "Thank you to the OpenStreetMap community, making it possible for anybody to improve these maps for the benefit of all.",
+  "extra_html": "",
+  "footnote": "Size: 16G, Date: 2022-03-18",
+  "commit_sha": null
+}
