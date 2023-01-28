@@ -6,11 +6,12 @@
   "start_url": "",
   "title": "Simple English Wikipedia",
   "logo_url": "220px-Wikipedia-logo-v2.svg.png",
-  "description": "Almost 200,000 Wikipedia articles in simplified English, for children and non-native speakers.",
+  "description": "200,000+ Wikipedia articles in simplified English, for children and non-native speakers.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "previous_commit_sha": "0ca1c08b6a7b1323acbb4f9d7771f254e1c1c7c1",
+  "change_ref": "copy from repo",
+  "change_date": "2022-09-15"
 }
