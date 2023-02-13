@@ -5,12 +5,10 @@
   "zim_name": "wikipedia_ht_all_maxi",
   "start_url": "",
   "title": "Wikipedya",
-  "logo_url": "en-wikipedia.png",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Offline vèsyon Wikipedia nan kreyòl ayisyen.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Gwosè: ##SIZE##, Atik: ##ARTICLE_COUNT##, Medya: ##MEDIA_COUNT##, Dat: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "commit_sha": null
 }
