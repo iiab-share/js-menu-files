@@ -7,10 +7,8 @@
   "title": "Kolibri",
   "logo_url": "kolibri.png",
   "description": "Kolibri es una nueva forma de acceder a los videos y cuestionarios de Khan Academy — y a cualquier otro Canal de Kolibri.",
-  "extra_description": "Elija uno de más de 31 idiomas. Admite <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> para que los profesores en línea puedan remezclar y redistribuir rápidamente planes de lecciones innovadores.",
+  "extra_description": "Elija uno de más de 32 idiomas. Admite <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> para que los profesores en línea puedan remezclar y redistribuir rápidamente planes de lecciones innovadores.",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null,
-  "previous_commit_sha": "34189db83793c5fa0529901cb165015943bfbbec",
-  "change_date": "2022-08-21"
+  "commit_sha": null
 }
