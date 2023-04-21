@@ -4,14 +4,11 @@
   "intended_use": "webroot",
   "moddir": "",
   "start_url": "books",
-  "title": "Calibre-Web",
+  "title": "Calibre-Web: Librero Electrónico",
   "logo_url": "calibreweb.png",
-  "description": "Libros electrónicos para tu comunidad.",
+  "description": "Construye tu propia biblioteca comunitaria. Carga libros y documentos para compartir.",
   "extra_description": "Maestros y bibliotecarios puede agregar nuevos libros, organizar colecciones, y borrar libros si el servidor de Internet-in-a-Box se empieza a llenar.",
   "extra_html": "",
   "footnote": "",
-  "edit_status": "repo",
-  "commit_sha": "79ee3a5ccaa14d01ee20acc352fdca1b113d1e2f",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "commit_sha": null
 }
