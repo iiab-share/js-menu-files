@@ -5,9 +5,11 @@
   "start_url": "wordpress",
   "title": "WordPress",
   "logo_url": "wordpress-icon3.png",
-  "description": "Write a personal article (or post photographs) to <a href=/wordpress/wp-login.php>share with your community!</a>",
+  "description": "Lucy, an 'Admin' can write community/personal articles (or post photographs) other people can even create a blog to <a href=/wordpress/wp-login.php>share any Hands Up! activity</a>",
   "extra_description": "WordPress helps you blog (personal journaling), arrange forums and media galleries — with the help of optional plugins.",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
