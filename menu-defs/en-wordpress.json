@@ -9,7 +9,5 @@
   "extra_description": "WordPress helps you blog (personal journaling), arrange forums and media galleries — with the help of optional plugins.",
   "extra_html": "",
   "footnote": "",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "commit_sha": null
 }
