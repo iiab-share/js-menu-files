@@ -1,0 +1,15 @@
+{
+  "name": "es-es",
+  "lang": "es",
+  "intended_use": "download",
+  "start_url": "",
+  "title": "CLONE: Libros de Texto Secretaría de Educación Honduras",
+  "logo_url": "logo-fundacion-zamora-teran.png",
+  "description": "Colección de Libros de Texto de la Secretaría de Educación de Honduras, editado por Fundación Zamora Terán",
+  "extra_description": "",
+  "extra_html": "Libros",
+  "footnote": "Tamaño: 1 Gb, PDFs: 60, Fecha: Septiembre 2023",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - clone"
+}
