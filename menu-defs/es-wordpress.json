@@ -2,13 +2,14 @@
   "name": "es-wordpress",
   "lang": "es",
   "intended_use": "webroot",
-  "moddir": "",
   "start_url": "wordpress",
-  "title": "WordPress",
-  "logo_url": "wordpress-icon.png",
+  "title": "T’ACHDÖ DÖSIG / Río Platanares",
+  "logo_url": "LOGO-Nro-10.png",
   "description": "¡Escriba un artículo personal (o publicación de blog de revista) para compartir con su comunidad!",
-  "edit_status": "repo",
-  "commit_sha": "116d695fee1fbb9d8076f7467a8dc0182dc8d2df",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
