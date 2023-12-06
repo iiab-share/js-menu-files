@@ -1,0 +1,13 @@
+{
+  "name": "fr-calibreweb",
+  "lang": "fr",
+  "intended_use": "webroot",
+  "start_url": "books",
+  "title": "Calibre-Web : Livres Électroniques",
+  "logo_url": "calibreweb.png",
+  "description": "Construisez votre propre bibliothèque communautaire locale.",
+  "extra_description": "Enseignants et Bibliothécaires peuvent ajouter de nouveaux livres, organiser des « étagères à livres » et supprimer des livres si Internet-in-a-Box est plein.",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null
+}
