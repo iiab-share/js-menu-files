@@ -1,0 +1,11 @@
+{
+  "name": "fr-moodle",
+  "lang": "fr",
+  "intended_use": "webroot",
+  "moddir": "",
+  "start_url": "moodle",
+  "title": "Moodle",
+  "logo_url": "moodle-logo.png",
+  "description": "Moodle est une plateforme d'apprentissage conçue pour fournir aux éducateurs, aux administrateurs et aux apprenants un système unique robuste, sécurisé et intégré pour créer des environnements d'apprentissage personnalisés.",
+  "commit_sha": null
+}
