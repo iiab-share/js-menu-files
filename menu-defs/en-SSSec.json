@@ -1,0 +1,16 @@
+{
+  "name": "en-SSSec",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-SSSec",
+  "start_url": "",
+  "title": "South Sudan Sec Textbooks with Answers",
+  "logo_url": "SS MoE logo.png",
+  "description": "High quality PDF textbooks used by 38,000 schools.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Compiled by Bla Eddie on 7 December 2023 ",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
