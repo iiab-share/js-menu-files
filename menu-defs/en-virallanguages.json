@@ -1,0 +1,12 @@
+{
+  "name": "en-virallanguages",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "virallanguages.org",
+  "start_url": "virallanguages.org/index.html",
+  "title": "virALLanguages",
+  "logo_url": "en-virallanguages.jpg",
+  "description": "We aim to reach as many people as possible sharing reliable and memorable information so people know what to do to stop the spread of coronavirus.",
+  "footnote": "Size: 11M, 311 Files/Folders, Date: December 2023",
+  "commit_sha": null
+}
