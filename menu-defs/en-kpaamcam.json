@@ -1,0 +1,13 @@
+{
+  "name": "en-kpaamcam",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "kpaam-cam.org",
+  "start_url": "ubwp.buffalo.edu/kpaamcam/index.html",
+  "title": "Key Pluridisciplinary Advances on African Multilingualism – Cameroon",
+  "logo_url": "en-kpaamcam.jpg",
+  "description": "KPAAM-CAM stands for Key Pluridisciplinary Advances on African Multilingualism – CAMeroon. It is an international research project aimed to understand the linguistic and sociocultural dynamics of individual multilingualism in Cameroon, and to explore how they pattern in time and space, with special attention to rural, more traditional contexts.",
+  "extra_description": "The KPAAM-CAM research team includes linguists, sociolinguists, anthropologists, and geographers from a number of universities in the US (Buffalo, SUNY), Cameroon (Yaounde, Buea, CATUC – Bamenda), and Europe (Florence).",
+  "footnote": "Size: 111M, 625 Files/Folders, Date: December 2023",
+  "commit_sha": null
+}
