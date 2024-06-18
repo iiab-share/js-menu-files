@@ -1,0 +1,15 @@
+{
+  "name": "en-starter_info",
+  "lang": "en",
+  "intended_use": "info",
+  "start_url": "",
+  "title": "This is the Starter Edition of Internet in a Box.",
+  "logo_url": "240px-Info_icon_002.svg.png",
+  "description": "Head to the Admin Console to add more content and services for your audience.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
