@@ -3,11 +3,13 @@
   "lang": "en",
   "intended_use": "webroot",
   "start_url": "usb",
-  "title": "Insert a USB Stick/Drive to Publish Files Here",
+  "title": "User Contributed Files",
   "logo_url": "1804363.png",
-  "description": "Teachers/Librarians: your class handouts (PDF files, photos, public notices, etc) will instantly appear <a href=/usb>Right Here</a> after you insert a USB stick/drive into the Internet-in-a-Box.",
-  "extra_description": "Finally: don't hesitate to physically remove your USB stick at any time, after Wi-Fi users have downloaded what they need from you.",
+  "description": "These are files uploaded by users and not apart of the normal search!",
+  "extra_description": "",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
