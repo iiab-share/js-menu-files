@@ -10,8 +10,7 @@
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
   "commit_sha": null,
-  "previous_commit_sha": "219c6115f68bd55a10cd4abdb98c5c6c3f67c662",
-  "change_ref": "copy from repo",
-  "change_date": "2022-08-21"
+  "change_ref": "admin_console - edit"
 }
