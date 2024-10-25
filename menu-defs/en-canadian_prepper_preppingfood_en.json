@@ -1,0 +1,16 @@
+{
+  "name": "en-canadian_prepper_preppingfood_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "canadian_prepper_preppingfood_en",
+  "start_url": "",
+  "title": "Canadian Prepper - Food Storage, Meals",
+  "logo_url": "content.jpg",
+  "description": "Prepping Food: Long-term food storage and survival meals",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
