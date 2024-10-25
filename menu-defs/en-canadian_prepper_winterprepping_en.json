@@ -1,0 +1,16 @@
+{
+  "name": "en-canadian_prepper_winterprepping_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "canadian_prepper_winterprepping_en",
+  "start_url": "",
+  "title": "Canadian Prepper - Winter Survival, Emergencies",
+  "logo_url": "content.jpg",
+  "description": "Winter Prepping: Prepare for winter survival and emergencies",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
