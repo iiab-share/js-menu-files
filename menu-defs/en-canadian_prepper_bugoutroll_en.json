@@ -1,0 +1,16 @@
+{
+  "name": "en-canadian_prepper_bugoutroll_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "canadian_prepper_bugoutroll_en",
+  "start_url": "",
+  "title": "Canadian Prepper - Essential Gear",
+  "logo_url": "content.jpg",
+  "description": "Bug Out Roll: Essential gear for your ultimate bug-out bag",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
