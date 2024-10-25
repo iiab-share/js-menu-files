@@ -1,0 +1,16 @@
+{
+  "name": "en-canadian_prepper_bugoutconcepts_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "canadian_prepper_bugoutconcepts_en",
+  "start_url": "",
+  "title": "Canadian Prepper - Bug Out Plans/Concepts",
+  "logo_url": "content.jpg",
+  "description": "Bug Out Concepts: Strategies and tips for effective bug-out plans",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
