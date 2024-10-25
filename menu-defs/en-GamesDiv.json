@@ -1,0 +1,15 @@
+{
+  "name": "en-GamesDiv",
+  "lang": "en",
+  "intended_use": "info",
+  "start_url": "",
+  "title": "To Do",
+  "logo_url": "hamburger.png",
+  "description": "1) Finish Curating the categories (medical, survival, etc)<BR>2) Find out what &quot;Central repository&quot; is. I think it's the big list of content that I can drag/drop from.<BR>",
+  "extra_description": "If there is more description, put it here.",
+  "extra_html": "",
+  "footnote": "You can put catalog type information here like number of pdfs or size. Also you can use the ##SIZE## and other substitution fields for zims.",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
