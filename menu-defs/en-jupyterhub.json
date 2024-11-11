@@ -1,0 +1,15 @@
+{
+  "name": "en-jupyterhub",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "/jupyterhub",
+  "title": "JupyterHub",
+  "logo_url": "Jupyter_logo.svg.png",
+  "description": "Jupyter-Hub",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - clone"
+}
