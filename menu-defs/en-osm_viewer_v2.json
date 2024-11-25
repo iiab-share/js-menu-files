@@ -6,14 +6,11 @@
   "start_url": "viewer",
   "title": "World Maps & Satellite Photos",
   "logo_url": "osm.jpg",
-  "description": "World Maps, Local Maps and Satellite Photos at various levels of zoom.  Thanks to OpenStreetMap.",
-  "extra_description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide.",
+  "description": "Search for cities/towns around the World!",
+  "extra_description": "World Maps, Local Maps and Satellite Photos at various levels of zoom.<BR>Hosted by: OpenStreetMap.",
   "extra_html": "",
   "footnote": "Date: 2019-09-30",
-  "edit_status": "repo",
-  "commit_sha": "d85da27812a19a3f156c7ca11b663fe03d7b96d9",
-  "change_ref": "copy from repo",
-  "change_date": "2021-11-11",
-  "upload_flag": false,
-  "download_flag": true
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
