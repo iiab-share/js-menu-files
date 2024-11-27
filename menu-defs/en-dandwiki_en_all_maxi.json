@@ -1,0 +1,16 @@
+{
+  "name": "en-dandwiki_en_all_maxi",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "dandwiki_en_all_maxi",
+  "start_url": "",
+  "title": "D&D Wiki",
+  "logo_url": "DnD-Emblem.png",
+  "description": "From D&amp;D Wiki",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
