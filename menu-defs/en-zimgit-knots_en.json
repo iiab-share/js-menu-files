@@ -1,0 +1,16 @@
+{
+  "name": "en-zimgit-knots_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "zimgit-knots_en",
+  "start_url": "",
+  "title": "A Library of Knots",
+  "logo_url": "main-logo.png",
+  "description": "Illustrated resources on all types of knots, ladders, sutures, etc. ",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
