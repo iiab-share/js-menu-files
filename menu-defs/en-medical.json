@@ -1,0 +1,15 @@
+{
+  "name": "en-medical",
+  "lang": "en",
+  "intended_use": "info",
+  "start_url": "",
+  "title": "Medical Repos",
+  "logo_url": "hamburger.png",
+  "description": "A collection of medical Wikis and Books that range from Emergency medicine to Military Medicine.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
