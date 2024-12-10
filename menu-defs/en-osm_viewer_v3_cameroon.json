@@ -1,0 +1,14 @@
+{
+  "name": "en-osm_viewer_v3_cameroon",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "World Maps & Satellite Photos",
+  "logo_url": "osm.jpg",
+  "description": "Search for cities/towns with more than 1000 people.  There are about 127,654 worldwide:<p><ul><li>Worldwide satellite photos: 10 levels of zoom (305-metre resolution)<li>Cameroon satellite photos: 13 levels of zoom (19-metre resolution)<li>Worldwide maps: 15 levels of zoom + 4 levels of overzoom to highlight building details and natural geography</ul>",
+  "extra_description": "Thank you to the OpenStreetMap community, making it possible for anybody to improve these maps for the benefit of all.",
+  "extra_html": "",
+  "footnote": "Size: 86G, Date: 2022",
+  "commit_sha": null
+}
