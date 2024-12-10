@@ -6,11 +6,9 @@
   "start_url": "",
   "title": "OER4Schools",
   "logo_url": "content.jpg",
-  "description": "226 OER4Schools videos for teacher professional development, focusing on sub-Saharan Africa.",
+  "description": "234 OER4Schools videos for teacher professional development, focusing on sub-Saharan Africa.",
   "extra_description": "Thanks to teachers in Zambia (2010-2014), OER Africa and the Centre for Commonwealth Education at the Faculty of Education, University of Cambridge.",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "commit_sha": null
 }
