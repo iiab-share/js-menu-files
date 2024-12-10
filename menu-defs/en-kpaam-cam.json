@@ -1,0 +1,13 @@
+{
+  "name": "en-kpaam-cam",
+  "lang": "en",
+  "intended_use": "html",
+  "moddir": "en-kpaam-cam",
+  "start_url": "ubwp.buffalo.edu/kpaamcam/index.html",
+  "title": "KPAAM-CAM - Documenting Africa's endangered languages and rural forms of multilingualism",
+  "logo_url": "en-kpaamcam.jpg",
+  "description": "KPAAM-CAM stands for Key Pluridisciplinary Advances on African Multilingualism – CAMeroon and it is a research project based at the University at Buffalo, NY, USA.",
+  "extra_description": "From 2014-2023, KPAAM-CAM has organized training and fieldwork for MA and PhD students in linguistics, geography, and anthropology at the Universities of Yaounde 1, Buea, Bamenda, Dschang, and Maroua.",
+  "footnote": "Size: 160M, 949 Files/Folders, Date: December 2024",
+  "commit_sha": null
+}
