@@ -7,7 +7,7 @@
   "title": "Kolibri",
   "logo_url": "kolibri.png",
   "description": "Kolibri is a new way to access Khan Academy videos and quizzes — and any other Kolibri Channel.",
-  "extra_description": "Pick one of 32+ languages. Supports <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> so online teachers can quickly remix and redistribute innovative lesson plans.",
+  "extra_description": "Pick one of 33+ languages. Supports <a href='https://kolibri-studio.readthedocs.io/'>Kolibri Studio</a> so online teachers can quickly remix and redistribute innovative lesson plans.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null
