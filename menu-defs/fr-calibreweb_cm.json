@@ -6,7 +6,7 @@
   "title": "Bibliothèque multimédia",
   "logo_url": "calibreweb.png",
   "description": "Notre bibliothèque contient plus de 1 000 publications sur les langues, la linguistique et l'anthropologie de l'Afrique et d'ailleurs, ainsi que des centaines de vidéos enrichissantes. Et vous pouvez ajouter d'autres publications et vidéos !",
-  "extra_description": "Enseignants et Bibliothécaires peuvent ajouter de nouveaux livres, organiser des « étagères à livres » et supprimer des livres si Internet-in-a-Box est plein.",
+  "extra_description": "Enseignants peuvent ajouter de nouveaux livres ou vidéos, organiser des « étagères » et supprimer si Internet-in-a-Box est plein.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null
