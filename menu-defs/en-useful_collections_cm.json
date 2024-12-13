@@ -1,0 +1,13 @@
+{
+  "name": "en-useful_collections_cm",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "usb",
+  "title": "Useful Collections",
+  "logo_url": "wikistage.png",
+  "description": "Video tutorials on DaVinci Resolve, ELAN, and how to do language documentation; Videos by or about refugee communities; Videos in Hausa, Fulfulde, Kanuri and languages of the Mandara Mountains.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null
+}
