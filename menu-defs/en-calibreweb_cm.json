@@ -1,0 +1,14 @@
+{
+  "name": "en-calibreweb_cm",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "books/discover/stored/",
+  "title": "Multimedia library",
+  "logo_url": "calibreweb.png",
+  "description": "Our library contains more than 1,000 publications about languages, linguistics, and anthropology of Africa and beyond & hundreds of enriching videos. And you can add more publications and videos!",
+  "extra_description": "(Teachers and Librarians can add new books, organize &quot;bookshelf&quot; collections — and delete books if Internet-in-a-Box is getting full.)",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_date": "2022-03-18"
+}
