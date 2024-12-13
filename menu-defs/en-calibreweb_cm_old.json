@@ -1,0 +1,14 @@
+{
+  "name": "en-calibreweb_cm_old",
+  "lang": "en",
+  "intended_use": "webroot",
+  "start_url": "books/discover/stored/",
+  "title": "Electronic Books",
+  "logo_url": "calibreweb.png",
+  "description": "<a href=/books/series/seriesasc/2>15 Linguistics Classics</a> and <a href=/books/series/seriesasc/3>11 Linguistics Scans</a> among 1259+ books.<p>Please add to this 8+ GB starter collection, building your own local community library.",
+  "extra_description": "(Teachers and Librarians can add new books, organize &quot;bookshelf&quot; collections — and delete books if Internet-in-a-Box is getting full.)",
+  "extra_html": "",
+  "footnote": "",
+  "commit_sha": null,
+  "change_date": "2022-03-18"
+}
