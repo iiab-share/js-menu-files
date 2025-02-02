@@ -5,8 +5,8 @@
   "start_url": "usb",
   "title": "Insérez une clé/lecteur USB pour publier des fichiers ici",
   "logo_url": "1804363.png",
-  "description": "Enseignants/bibliothécaires : vos documents de cours (fichiers PDF, photos, avis publics, etc.) apparaîtront instantanément <a href=/usb>Juste ici</a> après avoir inséré une clé/lecteur USB dans Internet-in-a- Boîte.",
-  "extra_description": "Enfin : n'hésitez pas à retirer physiquement votre clé USB à tout moment, après que les utilisateurs Wi-Fi aient téléchargé de vous ce dont ils avaient besoin.",
+  "description": "Enseignants/bibliothécaires : vos documents de cours (fichiers PDF, photos, vidéos, etc.) apparaîtront instantanément <a href=/usb>JUSTE ICI</a> après avoir inséré une clé/lecteur USB dans Internet-in-a-Boîte.  Les étudiants peuvent télécharger leur travail en cliquant sur le bouton <b>Upload to USB</b>.",
+  "extra_description": "Tout enseignant peut (s'il le souhaite) créer un dossier nommé PUBLIC sur sa clé USB, si les téléchargements des élèves doivent être privés.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null
