@@ -4,10 +4,10 @@
   "intended_use": "webroot",
   "moddir": "",
   "start_url": "usb",
-  "title": "Inserte una Unidad USB para Publicar Archivos Aquí",
+  "title": "Inserte una Memoria USB/Unidad para Publicar Archivos Aquí",
   "logo_url": "1804363.png",
-  "description": "Maestros: El contenido de su clase (PDF, fotos, etc) <a href=/usb>Aparecerán Inmediatamente Aquí</a> después de insertar una unidad USB o disco duro USB en el servidor de Internet-in-a-Box.",
-  "extra_description": "Por último: no dude en retirar su memoria USB en cualquier momento, después de que los usuarios de Wi-Fi hayan descargado lo que necesiten.",
+  "description": "Maestros/Bibliotecarios: El contenido de su clase (PDF, fotos, videos, etc) aparecerán inmediatamente <a href=/usb>AQUÍ</a> después de insertar una unidad USB o disco duro USB en Internet-in-a-Box.  Los estudiantes pueden subir su trabajo haciendo clic en el botón <b>Upload to USB</b>.",
+  "extra_description": "Cualquier profesor puede crear opcionalmente una carpeta llamada PUBLIC en su memoria USB, si las cargas de los estudiantes deben ser privadas.",
   "extra_html": "",
   "footnote": "",
   "commit_sha": null
