@@ -5,7 +5,7 @@
   "start_url": "usb",
   "title": "Insert a USB Stick/Drive to Publish Files Here",
   "logo_url": "1804363.png",
-  "description": "Teachers/Librarians: your class handouts (PDF files, photos, videos, etc) will instantly appear <a href=/usb>RIGHT HERE</a> after you insert a USB stick/drive into the Internet-in-a-Box.  Students can upload their work by clicking on button <b>Upload to USB</b>.",
+  "description": "Teachers/Librarians: your class handouts (PDF files, photos, videos, etc) will instantly appear <a href=/usb>RIGHT HERE</a> after you insert a USB stick/drive into the Internet-in-a-Box.  Students can upload their work by clicking on the <b>Upload to USB</b> button.",
   "extra_description": "Any teacher can optionally create a folder named PUBLIC on their USB stick, if student uploads need to be private.",
   "extra_html": "",
   "footnote": "",
