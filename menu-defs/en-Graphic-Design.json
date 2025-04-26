@@ -1,0 +1,16 @@
+{
+  "name": "en-Graphic-Design",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "Graphic-Design",
+  "start_url": "/home/jraulgur/youtube_downloads/Graphic-Design/archive/html/index.html",
+  "title": "YouTube Archive: Graphic-Desig",
+  "logo_url": "content.jpg",
+  "description": "Offline archive of downloaded YouTube videos",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
