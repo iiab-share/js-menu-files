@@ -1,0 +1,15 @@
+{
+  "name": "en-FreeMovies",
+  "lang": "en",
+  "intended_use": "external",
+  "start_url": "http://box.lan/usb/USB0/Movies/",
+  "title": "Free Movies",
+  "logo_url": "video.png",
+  "description": "Movies to pass the time and relax.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
