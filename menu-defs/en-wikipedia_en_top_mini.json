@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_top_mini",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_top_mini",
+  "start_url": "",
+  "title": "Best of Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "A selection of the best 50,000 Wikipedia articles",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
