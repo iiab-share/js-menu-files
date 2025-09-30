@@ -1,0 +1,16 @@
+{
+  "name": "en-libretexts_org_en_med",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "libretexts.org_en_med",
+  "start_url": "",
+  "title": "Medicine LibreTexts",
+  "logo_url": "content.jpg",
+  "description": "Medicine courses and bookshelves from LibreTexts.org",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
