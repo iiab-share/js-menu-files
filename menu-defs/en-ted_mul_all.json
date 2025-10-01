@@ -4,13 +4,11 @@
   "intended_use": "zim",
   "zim_name": "ted_mul_all",
   "start_url": "",
-  "title": "All TED videos",
+  "title": "TED Videos",
   "logo_url": "content.jpg",
-  "description": "A collection of all TED videos and TED Talk videos",
+  "description": "Ideas Change Everything: a large collection of TED Talk videos on all topics.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "commit_sha": null
 }
