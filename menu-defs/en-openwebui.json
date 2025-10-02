@@ -1,0 +1,15 @@
+{
+  "name": "en-openwebui",
+  "lang": "en",
+  "intended_use": "info",
+  "start_url": "http://192.168.1.194:4244/",
+  "title": "open webui",
+  "logo_url": "favicon.png",
+  "description": "like chatgpt",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
