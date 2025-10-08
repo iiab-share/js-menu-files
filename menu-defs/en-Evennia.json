@@ -1,0 +1,15 @@
+{
+  "name": "en-Evennia",
+  "lang": "en",
+  "intended_use": "external",
+  "start_url": "http://45.59.37.32:4001",
+  "title": "Evennia MUD",
+  "logo_url": "evennia_logo[1].png",
+  "description": "Play Text Adventures in your Browser!",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
