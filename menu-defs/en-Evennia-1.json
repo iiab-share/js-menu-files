@@ -1,0 +1,15 @@
+{
+  "name": "en-Evennia-1",
+  "lang": "en",
+  "intended_use": "download",
+  "start_url": "http://45.59.37.32:9999:4001",
+  "title": "CLONE: Evennia MUD",
+  "logo_url": "evennia_logo[1].png",
+  "description": "Play Text Adventures in your Browser!",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - clone"
+}
