@@ -1,0 +1,16 @@
+{
+  "name": "en-PDFFiles",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "PDFFiles",
+  "start_url": "box.lan/pdfs/",
+  "title": "PDFFiles",
+  "logo_url": "content.jpg",
+  "description": "PDFFiles",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
