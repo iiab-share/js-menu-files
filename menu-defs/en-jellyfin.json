@@ -1,0 +1,15 @@
+{
+  "name": "en-jellyfin",
+  "lang": "en",
+  "intended_use": "absolute",
+  "start_url": "http://box.lan:8096",
+  "title": "Jellyfin",
+  "logo_url": "stackexchange.png",
+  "description": "Stream your media library (movies, music, photos, TV)",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
