@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_all_mini",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_all_mini",
+  "start_url": "http://box.lan/kiwix/viewer#wikipedia_en_all_mini_2025-06/Wikipedia",
+  "title": "Wikipedia in English",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "Wikipedia is the world's largest encyclopedia, created, moderated, and edited by users for users.  It includes millions of illustrations and photographs.",
+  "extra_description": "More than 7 Million articles can be searched using any word(s) that appear in article titles (this is fast!)<p>Or, do a deep search using any keyword(s) that appear further down in the articles themselves (have patience, this takes time!)",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
