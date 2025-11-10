@@ -2,7 +2,7 @@
   "name": "en-iiabmaps",
   "lang": "en",
   "intended_use": "webroot",
-  "start_url": "maps",
+  "start_url": "maps/",
   "title": "World Maps & Satellite Photos",
   "logo_url": "osm.jpg",
   "description": "World Maps, Local Maps and Satellite Photos at various levels of zoom.",
