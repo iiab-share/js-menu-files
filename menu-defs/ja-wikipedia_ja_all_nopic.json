@@ -1,0 +1,14 @@
+{
+  "name": "ja-wikipedia_ja_all_nopic",
+  "lang": "ja",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_ja_all_nopic",
+  "start_url": "",
+  "title": "Wikipedia in Japanese",
+  "logo_url": "en-wikipedia.png",
+  "description": "日本語版ウィキペディアのオフライン版",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
+}
