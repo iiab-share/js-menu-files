@@ -1,0 +1,14 @@
+{
+  "name": "it-wikipedia_it_all_nopic",
+  "lang": "it",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_it_all_nopic",
+  "start_url": "",
+  "title": "Wikipedia in Italian",
+  "logo_url": "en-wikipedia.png",
+  "description": "Versione offline di Wikipedia in italiano",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
+}
