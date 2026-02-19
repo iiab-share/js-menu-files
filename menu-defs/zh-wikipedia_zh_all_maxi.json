@@ -1,0 +1,17 @@
+{
+  "name": "zh-wikipedia_zh_all_maxi",
+  "lang": "zh",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_zh_all_maxi",
+  "start_url": "",
+  "title": "维基百科",
+  "logo_url": "en-wikipedia.png",
+  "description": "迷你版维基百科，每个人的百科全书",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "generated",
+  "commit_sha": null,
+  "change_ref": "generated",
+  "change_date": "2026-02-19"
+}
