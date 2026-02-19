@@ -1,0 +1,14 @@
+{
+  "name": "it-wikipedia_it_top_maxi",
+  "lang": "it",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_it_top_maxi",
+  "start_url": "",
+  "title": "Il meglio di Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "Una selezione dei migliori 50.000 articoli di Wikipedia in italiano",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Misurare: ##SIZE##, Articoli: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Data: ##zim_date##",
+  "commit_sha": null
+}
