@@ -1,0 +1,14 @@
+{
+  "name": "fr-wikipedia_fr_top_maxi",
+  "lang": "fr",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_fr_top_maxi",
+  "start_url": "",
+  "title": "Le meilleur de Wikipédia",
+  "logo_url": "en-wikipedia.png",
+  "description": "Une sélection des 50 000 meilleurs articles de Wikipédia en français",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
+}
