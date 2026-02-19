@@ -1,0 +1,14 @@
+{
+  "name": "pt-wikipedia_pt_all_maxi",
+  "lang": "pt",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_pt_all_maxi",
+  "start_url": "",
+  "title": "Wikipédia",
+  "logo_url": "en-wikipedia.png",
+  "description": "Versão offline da Wikipedia em Português",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Tamanho: ##SIZE##, Artigos: ##ARTICLE_COUNT##, Mídia: ##MEDIA_COUNT##, Data: ##zim_date##",
+  "commit_sha": null
+}
