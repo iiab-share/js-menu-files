@@ -1,0 +1,14 @@
+{
+  "name": "se-wikipedia_se_all_maxi",
+  "lang": "se",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_se_all_maxi",
+  "start_url": "",
+  "title": "Wikipedia",
+  "logo_url": "en-wikipedia.png",
+  "description": "Friddja diehtosátnegirji!",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Storlek: ##SIZE##, Artiklar: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Datum: ##zim_date##",
+  "commit_sha": null
+}
