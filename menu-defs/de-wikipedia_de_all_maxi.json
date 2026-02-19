@@ -9,6 +9,6 @@
   "description": "Aus Wikipedia, der freien Enzyklopädie.",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "footnote": "Größe: ##SIZE##, Artikel: ##ARTICLE_COUNT##, Medien: ##MEDIA_COUNT##, Datum: ##zim_date##",
   "commit_sha": null
 }
