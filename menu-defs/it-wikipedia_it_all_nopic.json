@@ -9,6 +9,6 @@
   "description": "Versione offline di Wikipedia in italiano",
   "extra_description": "",
   "extra_html": "",
-  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "footnote": "Misurare: ##SIZE##, Articoli: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Data: ##zim_date##",
   "commit_sha": null
 }
