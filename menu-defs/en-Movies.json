@@ -3,7 +3,7 @@
   "lang": "en",
   "intended_use": "html",
   "moddir": "",
-  "start_url": "http://10.10.10.10/usb/USB0/Movies/",
+  "start_url": "usb/USB0/Movies",
   "title": "Movies",
   "logo_url": "video.png",
   "description": "Movies to pass the time and relax.",
