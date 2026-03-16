@@ -9,5 +9,7 @@
   "extra_description": "Any teacher can optionally create a folder named PUBLIC on their USB stick, if student uploads need to be private.",
   "extra_html": "",
   "footnote": "",
-  "commit_sha": null
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
