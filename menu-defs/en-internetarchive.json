@@ -2,7 +2,7 @@
   "name": "en-internetarchive",
   "lang": "en",
   "intended_use": "internetarchive",
-  "start_url": "",
+  "start_url": "https://web.archive.org",
   "title": "Internet Archive Decentralized Web",
   "logo_url": "Internet_Archive_logo_and_wordmark.svg",
   "description": "Internet Archive Decentralized Web helps you create your own offline digital library e.g. from <a href=http://dweb.archive.org>http://dweb.archive.org</a>",
