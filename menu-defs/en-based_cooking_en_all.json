@@ -1,0 +1,16 @@
+{
+  "name": "en-based_cooking_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "based.cooking_en_all",
+  "start_url": "",
+  "title": "based.cooking LukeSmith",
+  "logo_url": "content.jpg",
+  "description": "Recipes submitted by computer savvy cooks",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
