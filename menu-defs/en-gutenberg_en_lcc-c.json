@@ -1,0 +1,16 @@
+{
+  "name": "en-gutenberg_en_lcc-c",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "gutenberg_en_lcc-c",
+  "start_url": "",
+  "title": "Project Gutenberg Library",
+  "logo_url": "Project_Gutenberg_logo.png",
+  "description": "Auxiliary sciences of history",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
