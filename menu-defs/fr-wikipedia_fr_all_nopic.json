@@ -5,7 +5,7 @@
   "zim_name": "wikipedia_fr_all_nopic",
   "moddir": "fr-wikipedia",
   "title": "Wikipédia en Français",
-  "logo_url": "fr-wikipedia.png",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
   "description": "Le projet d’encyclopédie libre que vous pouvez améliorer.",
   "footnote": "Taille: ##SIZE##, Articles: ##ARTICLE_COUNT##, Médias: ##MEDIA_COUNT##, Date: ##zim_date##",
   "commit_sha": null
