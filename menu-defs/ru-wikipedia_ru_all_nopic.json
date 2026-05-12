@@ -1,0 +1,14 @@
+{
+  "name": "ru-wikipedia_ru_all_nopic",
+  "lang": "ru",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_ru_all_nopic",
+  "start_url": "",
+  "title": "Википедия",
+  "logo_url": "220px-Wikipedia-logo-v2.svg.png",
+  "description": "офлайн версия Википедии на русском",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "commit_sha": null
+}
