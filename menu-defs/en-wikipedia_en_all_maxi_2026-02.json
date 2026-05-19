@@ -1,0 +1,16 @@
+{
+  "name": "en-wikipedia_en_all_maxi_2026-02",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "wikipedia_en_all_maxi_2026-02",
+  "start_url": "../kiwix/viewer#wikipedia_en_all_maxi_2026-02",
+  "title": "Wikipedia 2026",
+  "logo_url": "en-wikipedia.png",
+  "description": "offline version of Wikipedia in English",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: 7,139,567, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
