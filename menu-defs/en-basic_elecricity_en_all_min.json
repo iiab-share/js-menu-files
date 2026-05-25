@@ -1,0 +1,16 @@
+{
+  "name": "en-basic_elecricity_en_all_min",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "basic_elecricity_en_all_min",
+  "start_url": "",
+  "title": "Basic Electricity",
+  "logo_url": "en-file_share.png",
+  "description": "Direct and Alternating Current, Measurements, Safety",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
