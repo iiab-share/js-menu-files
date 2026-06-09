@@ -1,0 +1,16 @@
+{
+  "name": "en-trueprepper_com_en_all",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "trueprepper.com_en_all",
+  "start_url": "",
+  "title": "True Prepper",
+  "logo_url": "content.jpg",
+  "description": "Prepping Your Way",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
