@@ -1,0 +1,16 @@
+{
+  "name": "en-zimgit-medicine_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "zimgit-medicine_en",
+  "start_url": "",
+  "title": "Medical Library",
+  "logo_url": "Medical_library.png",
+  "description": "A collection of books pertaining to field and emergency medicine.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
