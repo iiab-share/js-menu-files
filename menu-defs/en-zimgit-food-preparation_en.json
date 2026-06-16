@@ -1,0 +1,16 @@
+{
+  "name": "en-zimgit-food-preparation_en",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "zimgit-food-preparation_en",
+  "start_url": "",
+  "title": "Food for Preppers",
+  "logo_url": "Home_canning.png",
+  "description": "A collection of recipes and techniques for preparing food.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
