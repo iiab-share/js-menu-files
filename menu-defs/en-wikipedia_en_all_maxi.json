@@ -10,5 +10,7 @@
   "extra_description": "More than 7 Million articles can be searched using any word(s) that appear in article titles (this is fast!)<p>Or, do a deep search using any keyword(s) that appear further down in the articles themselves (have patience, this takes time!)",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "commit_sha": null
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
