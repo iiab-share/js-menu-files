@@ -3,13 +3,14 @@
   "lang": "en",
   "intended_use": "zim",
   "zim_name": "wiktionary_en_all",
+  "start_url": "http://box.lan/kiwix/viewer#wiktionary_en_all_nopic_2026-08/Wiktionary%3AMain_Page",
   "title": "Wiktionary",
   "logo_url": "220px-Wiktionary-logo.svg.png",
   "description": "Dictionary from Wikipedia, that aims to describe all words of all languages using definitions and descriptions in English.",
+  "extra_description": "",
   "extra_html": "",
   "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
-  "edit_status": "repo",
-  "commit_sha": "db2f1878848b66d952e183919c19ba7711f0d640",
-  "change_ref": "copy from repo",
-  "change_date": "2019-12-16"
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
 }
