@@ -1,0 +1,16 @@
+{
+  "name": "es-wikihow_es_maxi",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "wikihow_es_maxi",
+  "start_url": "",
+  "title": "wikiHow: tutoriales en los que puedes confiar",
+  "logo_url": "content.jpg",
+  "description": "wikiHow es un proyecto colaborativo destinado a construir el manual de &quot;Cómo hacer...&quot; más grande del mundo. Nuestra misión es brindar instrucciones que sean útiles para ayudar a resolver problemas cotidianos<BR>",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
