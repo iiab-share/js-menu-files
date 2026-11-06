@@ -2,11 +2,14 @@
   "name": "es-sugarizer",
   "lang": "es",
   "intended_use": "webroot",
-  "moddir": "",
   "start_url": "sugarizer",
   "title": "Sugarizer",
   "logo_url": "sugarizer.png",
-  "description": "¡Programa o sé programado!  Explore los acertijos de creatividad originalmente del proyecto global One Laptop Per Child del MIT.",
+  "description": "Explore los acertijos de creatividad originalmente creados para el proyecto One Laptop Per Child del MIT.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "local_change",
   "commit_sha": null,
-  "change_date": "2020-02-13"
+  "change_ref": "admin_console - edit"
 }
