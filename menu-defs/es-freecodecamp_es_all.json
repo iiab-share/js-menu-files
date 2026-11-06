@@ -1,0 +1,16 @@
+{
+  "name": "es-freecodecamp_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "freecodecamp_es_all",
+  "start_url": "",
+  "title": "FreeCodeCamp",
+  "logo_url": "content.jpg",
+  "description": "Todos los cursos de FreeCodeCamp. ¡Cursos de programación gratuitos!",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
