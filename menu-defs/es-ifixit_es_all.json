@@ -1,0 +1,16 @@
+{
+  "name": "es-ifixit_es_all",
+  "lang": "es",
+  "intended_use": "zim",
+  "zim_name": "ifixit_es_all",
+  "start_url": "",
+  "title": "iFixit in Spanish",
+  "logo_url": "content.jpg",
+  "description": "iFixit es una comunidad global de personas ayudándose mutuamente a reparar cosas. Con guías detalladas para hacerlo.",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "Size: ##SIZE##, Articles: ##ARTICLE_COUNT##, Media: ##MEDIA_COUNT##, Date: ##zim_date##",
+  "edit_status": "local_change",
+  "commit_sha": null,
+  "change_ref": "admin_console - edit"
+}
