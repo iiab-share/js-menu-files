@@ -6,11 +6,9 @@
   "start_url": "",
   "title": "Project Gutenberg Library en Español",
   "logo_url": "Project_Gutenberg_logo.png",
-  "description": "El primer productor de libros electrónicos gratuitos. <BR><BR>Proyecto Gutenberg ofrece más de 54,000 libros electrónicos gratuitos. Usted encontrará literatura de todo el mundo aquí, especialmente las obras más antiguas para las que el copyright ha expirado. Los digitalizamos y los revisamos diligentemente con la ayuda de miles de voluntarios. ",
+  "description": "El primer productor de libros electrónicos gratuitos. <BR><BR>Proyecto Gutenberg ofrece más de 54,000 libros electrónicos gratuitos. Usted encontrará literatura de todo el mundo aquí, especialmente las obras más antiguas para las que el copyright ha expirado. Los digitalizamos y los revisamos diligentemente con la ayuda de miles de voluntarios.",
   "extra_description": "",
   "extra_html": "",
   "footnote": "Tamaño: ##SIZE##, Artículos: ##ARTICLE_COUNT##, Medios: ##MEDIA_COUNT##, Fecha: ##zim_date##",
-  "edit_status": "local_change",
-  "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "commit_sha": null
 }
